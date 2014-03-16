@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.4]]></ac_version>
+    <ac_version><![CDATA[4.2.5]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -461,8 +461,8 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Longest Open"><![CDATA[am Längsten offen]]></translation>
       <translation phrase="Message:"><![CDATA[Nachricht:]]></translation>
       <translation phrase="Module will be deactivated. All reporting data generated using it will be deleted."><![CDATA[Modul wird deaktiviert. Alle generierten Berichtsdaten werden gelöscht.]]></translation>
-      <translation phrase="Most Active &amp; Open"><![CDATA[Am aktivsten und offen]]></translation>
-      <translation phrase="Most Active und Open list uses 3 parameters to calculate activity score. Specify weight multiplier for each parameter here.&lt;br /&gt;&lt;strong&gt;&lt;code&gt;score = (# of comments * comment weight) + (hours logged * hours weight) + (# of updates to item * updates weight)&lt;/code&gt;&lt;/strong&gt;"><![CDATA[Am aktivsten und offen Liste benutzt 3 Parameter um die Aktivitätswertung zu berechnen. Geben Sie hier die Gewichtung für jeden Parameter an.&lt;br /&gt;&lt;strong&gt;&lt;code&gt;Wertung = (Kommentare * Kommentare Gewichtung) + (aufgezeichnete Stunden * Stunden Gewichtung) + (# aktualisierte Elemente * Aktualisierte Gewichtung)&lt;/code&gt;&lt;/strong&gt;]]></translation>
+      <translation phrase="Most Active &amp; Open"><![CDATA[Am aktivsten &amp;amp; offen]]></translation>
+      <translation phrase="Most Active &amp;amp; Open list uses 3 parameters to calculate activity score. Specify weight multiplier for each parameter here.&lt;br /&gt;&lt;strong&gt;&lt;code&gt;score = (# of comments * comment weight) + (hours logged * hours weight) + (# of updates to item * updates weight)&lt;/code&gt;&lt;/strong&gt;"><![CDATA[Am aktivsten &amp; offen Liste benutzt 3 Parameter um die Aktivitätswertung zu berechnen. Geben Sie hier die Gewichtung für jeden Parameter an.&lt;br /&gt;&lt;strong&gt;&lt;code&gt;Wertung = (Kommentare * Kommentare Gewichtung) + (aufgezeichnete Stunden * Stunden Gewichtung) + (# aktualisierte Elemente * Aktualisierte Gewichtung)&lt;/code&gt;&lt;/strong&gt;]]></translation>
       <translation phrase="Next Milestone"><![CDATA[Nächster Meilenstein]]></translation>
       <translation phrase="No matches found"><![CDATA[Keine passenden Einträge gefunden]]></translation>
       <translation phrase="No projects found. Either you don't have any projects assigned or Reports module is not correctly configured."><![CDATA[Keine Projekte gefunden. Entweder haben Sie keine Projekte zugeordnet oder das Report Modul ist richtig konfiguriert.]]></translation>
@@ -563,7 +563,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Then By"><![CDATA[dann nach]]></translation>
       <translation phrase="TimeRecords have been updated successfully"><![CDATA[Zeiteinträge wurden erfolgreich aktualisiert]]></translation>
       <translation phrase="Timerecords have not been updated successfully"><![CDATA[Zeiteinträge wurden nicht erfolgreich aktualisiert]]></translation>
-      <translation phrase="Useful, actionable and extensive reports about projects, people, companies, finance and system usage. Go to Administration &gt; Reports for configuration. Also, generate custom time reports with summarized by different parameters."><![CDATA[Nützliche, umsetzbare und umfangreiche Berichte über Projekte, Personen, Firmen, Finanzen und die Systemnutzung. Gehen Sie auf Einstellungen gt; Berichte für die Konfiguration. Sie können auch Zeitberichte erstellen, summiert nach verschiedenen Parametern.]]></translation>
+      <translation phrase="Useful, actionable and extensive reports about projects, people, companies, finance and system usage. Go to Administration &gt; Reports for configuration. Also, generate custom time reports with summarized by different parameters."><![CDATA[Nützliche, umsetzbare und umfangreiche Berichte über Projekte, Personen, Firmen, Finanzen und die Systemnutzung. Gehen Sie auf Einstellungen &amp;gt; Berichte für die Konfiguration. Sie können auch Zeitberichte erstellen, summiert nach verschiedenen Parametern.]]></translation>
       <translation phrase="Home Screen"><![CDATA[Startseite]]></translation>
       <translation phrase="Hourly"><![CDATA[Stündlich]]></translation>
       <translation phrase="Trash"><![CDATA[Papierkorb]]></translation>
@@ -759,7 +759,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Very Low"><![CDATA[Sehr gering]]></translation>
       <translation phrase="Very High"><![CDATA[Sehr hoch]]></translation>
       <translation phrase="Time Zone"><![CDATA[Zeitzone]]></translation>
-      <translation phrase="Time &amp; Expenses"><![CDATA[Zeit und Aufwände]]></translation>
+      <translation phrase="Time &amp; Expenses"><![CDATA[Zeiten und Aufwände]]></translation>
       <translation phrase="Time"><![CDATA[Zeit]]></translation>
       <translation phrase="Tax Rate"><![CDATA[Steuersatz]]></translation>
       <translation phrase="Tax:"><![CDATA[USt. 19%:]]></translation>
@@ -1211,7 +1211,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Filter By :property_name"><![CDATA[Filtern nach :property_name]]></translation>
       <translation phrase="Failed to update multiple "><![CDATA[Fehler bei der Aktualisierung mehrerer]]></translation>
       <translation phrase="Failed to update item list"><![CDATA[Fehler bei der Aktualisierung der Eintrags Liste]]></translation>
-      <translation phrase="There are three type of scheduled events - events executed frequently (every 3 - 5 minutes), events executed once an hour and events executed once a day. These events need to be triggered from outside, by system utility used to periodically trigger and execute tasks"><![CDATA[Es gibt drei Arten von geplanten Veranstaltungen - Veranstaltungen die häufig ausgeführt werden (alle 3 - 5 Minuten), Veranstaltungen die einmal pro Stunde ausgeführt werden und Veranstaltungen, die einmal pro Tag ausgeführt werden.  Diese Ereignisse müssen von außen ausgelöst werden und kann mit dem System-Utility verwendet werden, um in regelmäßigen Abständen ausgelöst zu werden.]]></translation>
       <translation phrase="This item is archived. &lt;a href=&quot;:unarchive_url&quot;&gt;Click here&lt;/a&gt; to restore it from archive."><![CDATA[Dieses Element wurde archiviert. &lt;a href=&quot;:unarchive_url&quot;&gt;Klicken Sie hier&lt;/a&gt; um es aus dem Archiv wiederherzustellen.]]></translation>
       <translation phrase="Failed to log you in. Check your credentials and try again"><![CDATA[Die Anmeldung ist gescheitert. Prüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut]]></translation>
       <translation phrase="Failed to recover password. Check if your email address is valid, and try again"><![CDATA[Die Kennwortrücksetzung ist gescheitert. Prüfen Sie Ihre Email Adresse und versuchen Sie es erneut]]></translation>
@@ -1261,7 +1260,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Indexes Administration"><![CDATA[Index Administration]]></translation>
       <translation phrase="Indexes"><![CDATA[Indizes]]></translation>
       <translation phrase="Oops! We found some errors that need to be corrected before we can proceed"><![CDATA[Huch! Wir haben ein paar Fehler gefunden, die korrigiert werden müssen um fortzufahren]]></translation>
-      <translation phrase="or through web interface by sending HTTP request to event URL-s"><![CDATA[oder über ein Web-Interface per HTTP-Request an Veranstaltung URL-s ]]></translation>
       <translation phrase="Item successfully restored from trash"><![CDATA[Eintrag erfolgreich aus dem Papierkorb wiederhergestellt]]></translation>
       <translation phrase="Nothing to rebuild"><![CDATA[Nicht zum neuaufbauen]]></translation>
       <translation phrase="Item successfully deleted permanently"><![CDATA[Eintrag erfolgreich permanent gelöscht]]></translation>
@@ -1322,7 +1320,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Marked as completed"><![CDATA[Kennzeichnung als abgeschlossen]]></translation>
       <translation phrase="Marked as open"><![CDATA[Kennzeichnung als eröffnet]]></translation>
       <translation phrase="Client Vendor"><![CDATA[Kunden Anbieter]]></translation>
-      <translation phrase="Scheduled tasks can be executed through command line by executing following commands"><![CDATA[Geplante Aufgaben können wie folgt auf der Kommandozeile ausgeführt werden]]></translation>
       <translation phrase="Sign In"><![CDATA[Anmeldung]]></translation>
       <translation phrase="Showing :loaded of :total item. &lt;a href=&quot;#&quot; class=&quot;load_more_items&quot;&gt;Load More&lt;/a&gt;"><![CDATA[Anzeigen von :loaded von :total EInträgen. . &lt;a href=&quot;#&quot; class=&quot;load_more_items&quot;&gt;Mehr anzeigen&lt;/a&gt;]]></translation>
       <translation phrase="Showing :loaded of :total items. &lt;a href=&quot;#&quot; class=&quot;load_more_items&quot;&gt;Load More&lt;/a&gt;"><![CDATA[Anzeigen von :loaded von :total EInträgen. . &lt;a href=&quot;#&quot; class=&quot;load_more_items&quot;&gt;Mehr anzeigen&lt;/a&gt;]]></translation>
@@ -1370,7 +1367,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Are you sure that you want to remove selected filter?"><![CDATA[Sind Sie sicher, dass Sie diesen selektierten Filter löschen möchten?]]></translation>
       <translation phrase="Context Cache"><![CDATA[Kontext Zwischenspeicher]]></translation>
       <translation phrase="Cache where current context of each object is remembered. This index is used to quickly know when objects are moved between contexts"><![CDATA[Zwischenspeicher, wo aktuelle Kontexte von den Objekten gespeichert werden. Dieser Index wird benutzt, um zu wissen, wohin Objekte zwischen Kontexten bewegt werden.]]></translation>
-      <translation phrase="Commands listed above are just examples. Please consult your system administrator or hosting provider for exact location of PHP or curl executables and for assistance with getting these commands to execute properly on your server"><![CDATA[Die Befehle, die oben aufgelistet sind, sind nur Beispiele. Wenden Sie sich an Ihren Systemadministrator oder Webhoster für die exakten Ort der PHP oder curl ausführbaren Dateien und für Hilfe, damit die Ausführung dieser Befehle auf Ihrem Server einwandfrei funktioniert]]></translation>
       <translation phrase="Dictionary Word/Sentence"><![CDATA[Wörterbuch Wort/Satz]]></translation>
       <translation phrase="Dec"><![CDATA[Dez]]></translation>
       <translation phrase="Don't group"><![CDATA[Nicht gruppieren]]></translation>
@@ -1619,7 +1615,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Allow partial payments"><![CDATA[Teilzahlung erlauben]]></translation>
       <translation phrase="Add Client to People"><![CDATA[Kunden zu Personen hinzufügen]]></translation>
       <translation phrase="All Quotes"><![CDATA[Alle Angebote]]></translation>
-      <translation phrase="About Invoice Expenses"><![CDATA[Über Rechnungsaufwand]]></translation>
       <translation phrase="About Quote Sending"><![CDATA[Über Angebotsversand]]></translation>
       <translation phrase="About Project Creation"><![CDATA[Über Projekt Anlage]]></translation>
       <translation phrase="Add Predefined Invoice Item"><![CDATA[Vordefiniertes Rechnungselement hinzufügen]]></translation>
@@ -1631,8 +1626,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Add Recurring Profile"><![CDATA[Wiederkehrendes Profil hinzufügen]]></translation>
       <translation phrase="Archive this recurring profile after this occurrence."><![CDATA[Wiederkehrendes Profil archivieren nach diesem Auftreten.]]></translation>
       <translation phrase="Are you sure that you want to permanently delete this mailbox? Messages imported through this mailbox will not be removed"><![CDATA[Sind Sie sicher, dass Sie diese Mailbox permanent löschen möchten? Nachrichten, die durch diese Mailbox importiert wurden, werden nicht entfernt]]></translation>
-      <translation phrase="All expenses related to this invoice will be automatically marked as &quot;Pending Payment&quot; when this invoice gets issued. When invoice is marked as paid, then all related expenses will be automatically marked as paid, too. When the invoice is canceled, all related records will be automatically reverted to their original, billable state and released"><![CDATA[Alle Aufwände, die verbunden sind mir dieser Rechnung, werden automatisch als &quot;Offene Zahlung&quot; markiert, wenn die Rechnung ausgestellt wird. Wenn die Rechnung als bezahlt markiert ist, werden alle Aufwände auch als bezahlt markiert. Wenn die Rechnung storniert wird, werden alle Aufzeichnungen automatisch in den offenen unbezahlten Status überführt]]></translation>
-      <translation phrase="All time &amp; expense records related to this invoice will be automatically marked as &quot;Pending Payment&quot; when this invoice gets issued. When invoice is marked as paid, then all related time &amp; expense records will be automatically marked as paid, too. When the invoice is canceled, all related records will be automatically reverted to their original, billable state, and released"><![CDATA[Alle Zeit- und Aufwandsaufzeichnungen, die mit der Rechnung verbunden sind, werden mit &quot;Ausstehende Zahlungen&quot; markiert, wenn die Rechnung ausgestellt wird. Wenn die Rechnung als bezahlt markiert wird, werden alle verbundenen Zeit- und Aufwandsaufzeichnungen auch als bezahlt markiert. Wenn die Rechnung storniert wird, werden alle verbunden Aufzeichnungen  automatisch in den offenen unbezahlten Status überführt]]></translation>
       <translation phrase="Auto respond or delivery failure message deleted."><![CDATA[Automatische Antwort oder Zustellungsfehler Nachricht gelöscht-]]></translation>
       <translation phrase="Auto respond message ':subject' from ':mailbox_name' mailbox deleted."><![CDATA[Automatische Antwort ':subject' von ':mailbox_name' Mailbox gelöscht.]]></translation>
       <translation phrase="Body"><![CDATA[Hauptteil]]></translation>
@@ -2464,8 +2457,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Owner company does not exists"><![CDATA[Die Firma des Besitzers existiert nicht]]></translation>
       <translation phrase="Only the data clients can see"><![CDATA[Daten, die nur der Kunde sehen kann]]></translation>
       <translation phrase="Object"><![CDATA[Objekt]]></translation>
-      <translation phrase="On Releasing Expenses"><![CDATA[Bei Auslösung Aufwendungen]]></translation>
-      <translation phrase="On Releasing Time &amp; Expense Records"><![CDATA[Bei Auslösung Zeit und Aufwands Aufzeichnungen]]></translation>
       <translation phrase="Owner company can't be archived, trashed or deleted"><![CDATA[Die Firma des Besitzer kann nicht archiviert, in den Papierkorb verschoben oder gelöscht werden]]></translation>
       <translation phrase="Office Phone Number"><![CDATA[Büro Telefonnummer]]></translation>
       <translation phrase="Open and Completed"><![CDATA[Offen und abgeschlossen]]></translation>
@@ -2649,7 +2640,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Rebuild invoicing log entries"><![CDATA[Rechnungsprotokoll neu aufbauen]]></translation>
       <translation phrase="Rebuild invoicing object contexts"><![CDATA[Rechnungsobjekt Kontext neu aufbauen]]></translation>
       <translation phrase="Resend Email"><![CDATA[Email erneut senden]]></translation>
-      <translation phrase="Related Expenses"><![CDATA[verwandte Aufwandsschätzungen]]></translation>
       <translation phrase="Release"><![CDATA[freigeben]]></translation>
       <translation phrase="Remove Background Image"><![CDATA[Hintergrundbild entfernen]]></translation>
       <translation phrase="Remove Item"><![CDATA[Element entfernen]]></translation>
@@ -2733,7 +2723,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Would you like to &lt;a href=&quot;:add_url&quot; title=&quot;New Task&quot;&gt;create one now&lt;/a&gt;?"><![CDATA[Möchten Sie &lt;a href=&quot;:add_url&quot; title=&quot;New Task&quot;&gt;eine Neue anlegen&lt;/a&gt;?]]></translation>
       <translation phrase="Would you like to &lt;a href=&quot;:add_url&quot; title=&quot;New Todo List&quot;&gt;create one now&lt;/a&gt;?"><![CDATA[Möchten Sie &lt;a href=&quot;:add_url&quot; title=&quot;New Todo List&quot;&gt;eine Neue anlegen&lt;/a&gt;?]]></translation>
       <translation phrase="Welcome message includes information user needs in order to log in: &lt;strong&gt;link to login form, email and password&lt;/strong&gt;. Optionally, you can personalize message or provide more information using Personalize Message field below"><![CDATA[Die Willkommensnachricht enthält Informationen für die Benutzer um sich anzumelden: &lt;strong&gt;Link zur Anmeldeseite, Email und Kennwort&lt;/strong&gt;. Optional könne Sie die Nachricht personalisieren oder mehr Informationen bereitstellen, durch die Nutzung des persöhnlichen Nachrichtenfeldes unterhalb]]></translation>
-      <translation phrase="When records are released, relation between this invoice and them is removed, without any records being deleted. Instead, releated records will be reverted to their original, billable state, and invoice will not change their status in the future"><![CDATA[Wenn die Aufzeichnungen freigegeben werden, wird die Beziehung zwischen Ihnen und dieser Rechnung entfernt, ohne die Aufzeichnungen zu löschen. Stattdessen werden die verwandten Aufzeichnungen in die Originalen, abrechenbaren Zustand zurückgeführt und die Rechnungen werden diesen Status in Zukunft nicht ändern]]></translation>
       <translation phrase=":completed of :total task completed (:percentage % done)"><![CDATA[:completed von :total Aufgaben abgeschlossen (:percentage % erledigt)]]></translation>
       <translation phrase="Task Created"><![CDATA[Aufgabe erstellt]]></translation>
       <translation phrase="Username is required"><![CDATA[Benutzername wird benötigt]]></translation>
@@ -2995,7 +2984,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="There are no project categories to select from"><![CDATA[Es gibt keine Projekt kategorien zur Auswahl]]></translation>
       <translation phrase="There are no more results to load"><![CDATA[Es gibt keine weiteren Ergebnisse zu laden]]></translation>
       <translation phrase="There are no project roles defined"><![CDATA[Es sind keine Projekt Rollen definiert]]></translation>
-      <translation phrase="Time and Expenses"><![CDATA[Zeit und Aufwände]]></translation>
+      <translation phrase="Time and Expenses"><![CDATA[Zeiten und Aufwände]]></translation>
       <translation phrase="Tracked Expenses"><![CDATA[aufgezeichnete Aufwände]]></translation>
       <translation phrase="There are no time records or expenses on this project"><![CDATA[Es gibt keine Zeiteinträge oder Aufwände in diesem Projekt]]></translation>
       <translation phrase="Tracked Time"><![CDATA[aufgezeichnete Zeit]]></translation>
@@ -3685,7 +3674,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="At least one lower case and one uppercase letter are required"><![CDATA[Mindestens eine Kleinbuchstabe und eine Großbuchstabe sind erforderlich]]></translation>
       <translation phrase="Nothing to reorder"><![CDATA[Nichts neu zu ordnen]]></translation>
       <translation phrase="Reorder Milestones"><![CDATA[Meilensteine neu ordnen]]></translation>
-      <translation phrase="At least one of the following symbols is required: , . ; : ! $ % ^ &amp;"><![CDATA[Mindestens ein Sonderzeichen ist erforderlich: , . ; : ! $ % ^ und]]></translation>
+      <translation phrase="At least one of the following symbols is required: , . ; : ! $ % ^ &amp;"><![CDATA[Mindestens ein Sonderzeichen ist erforderlich: , . ; : ! $ % ^ &amp;amp;]]></translation>
       <translation phrase="Auto Assign"><![CDATA[Automatische Zuordnung]]></translation>
       <translation phrase="Full name and title will be left blank. You can always populate these details later on"><![CDATA[Der volle Name und die Anrede werden leer gelassen. Sie können diese Details später eingeben]]></translation>
       <translation phrase="Name and Title"><![CDATA[Name und Anrede]]></translation>
@@ -3729,7 +3718,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Tidy Up!"><![CDATA[Aufräumen!]]></translation>
       <translation phrase="This Project"><![CDATA[Dieses Projekt]]></translation>
       <translation phrase="There are no related tasks"><![CDATA[Es gibt keine verwandten Aufgaben]]></translation>
-      <translation phrase="User :email_address has been successfully removed from ':object_name notification' list"><![CDATA[Benutzer :email_address wurde erfolgreich von der Benachrichtigungsliste ':object_name notification' entfernt]]></translation>
       <translation phrase="Upload Failed"><![CDATA[Hochladen fehlgeschlagen]]></translation>
       <translation phrase="View Item"><![CDATA[Zeige Eintrag]]></translation>
       <translation phrase="When counter value length is fixed, system will prefix current counter value with appropriate number of zeros"><![CDATA[Wenn die Zähler Länge fest ist, wird das System den aktuellen Zählerwert mit einer angemessenen Zahl an vorstehenden Nullen auf]]></translation>
@@ -3744,7 +3732,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Invalid response. Please try again later"><![CDATA[Ungültige Antwort. Bitte versuchen Sie es später erneut.]]></translation>
       <translation phrase="Native Modules"><![CDATA[Systemeigenen Module]]></translation>
       <translation phrase="Not Available"><![CDATA[Nicht verfügbar]]></translation>
-      <translation phrase="object"><![CDATA[Objekt]]></translation>
       <translation phrase="Remove Default"><![CDATA[Standard entfernen]]></translation>
       <translation phrase="Show Details"><![CDATA[Zeige Details]]></translation>
       <translation phrase="Tax Rate (%)"><![CDATA[Steuersatz (%)]]></translation>
@@ -3784,7 +3771,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="This page is not available on a mobile device, please check it from your computer."><![CDATA[Diese Seite steht auf einem mobilen Endgerät nicht zur Verfügung. Bitte prüfen Sie es von Ihrem Computer aus.]]></translation>
       <translation phrase="Are you sure that you want to update selected records?"><![CDATA[Sind Sie sicher, dass die die gewählten Einträge akualisieren möchten?]]></translation>
       <translation phrase="Back to Home Page"><![CDATA[Zurück zur Startseite]]></translation>
-      <translation phrase="Commands listed above are just examples. Please consult your system administrator or hosting provider for exact location of PHP executables and for assistance with getting these commands to execute properly on your server"><![CDATA[Die Befehle, die oben aufgelistet sind, sind nur Beispiele. Wenden Sie sich an Ihren Systemadministrator oder Webhoster für die exakten Ort der PHP  ausführbaren Dateien und für Hilfe, damit die Ausführung dieser Befehle auf Ihrem Server einwandfrei funktioniert]]></translation>
       <translation phrase="Click to Hide"><![CDATA[Klicken Sie zum Ausblenden]]></translation>
       <translation phrase="Displays a list of reminders sent to user that has this widget on his home screen"><![CDATA[Zeigt eine Liste der Erinnerungen an, die an die Benutzer gesendet wurde, die dieses Widget auf ihrem Startbildschirm haben]]></translation>
       <translation phrase="file"><![CDATA[Datei]]></translation>
@@ -3889,13 +3875,12 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Disk Space"><![CDATA[Disk Speicher]]></translation>
       <translation phrase="Deleted Parent"><![CDATA[Elternelement löschen]]></translation>
       <translation phrase="Don't Send To"><![CDATA[Nicht senden an]]></translation>
-      <translation phrase="Email Notifications"><![CDATA[E-mail Benachrichtigung]]></translation>
+      <translation phrase="Email Notifications"><![CDATA[E-Mail Benachrichtigung]]></translation>
       <translation phrase="Excel"><![CDATA[Excel]]></translation>
       <translation phrase="Effective Work Hours"><![CDATA[Effektive Arbeitsstunde]]></translation>
       <translation phrase="Email Body"><![CDATA[E-Mail Body]]></translation>
       <translation phrase="Escalation Messages"><![CDATA[Eskalations Nachricht]]></translation>
       <translation phrase="Elastic Search"><![CDATA[Elastische Suche]]></translation>
-      <translation phrase="Each escalation should have heigher overdue value then previous defined overdue value."><![CDATA[Jede Eskalationsstufe sollte einen höheren Wert haben, als die vorangegangene.]]></translation>
       <translation phrase="Enable Invoice Overdue Reminders"><![CDATA[Rechnungs Eskaltions Erinnerungen aktivieren]]></translation>
       <translation phrase="Enable Second Tax for Invoices"><![CDATA[Aktiviere zweite Steuer für Rechnungen]]></translation>
       <translation phrase="Enable this feature to send different messages depending on the number of days that the customer is late with the payment. This feature is helpful when you need to change the tone of the message as time goes by"><![CDATA[Aktivieren Sie diese Funktion, um verschiedene Meldungen in Abhängigkeit von der Anzahl der Tage zu senden, dass der Kunde mit der Zahlung zu spät ist. Diese Funktion ist hilfreich, wenn Sie den Ton der Nachricht zu ändern, wie die Zeit vergeht müssen]]></translation>
@@ -4119,7 +4104,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Issued By"><![CDATA[ausgestellt von]]></translation>
       <translation phrase="Issue Date"><![CDATA[Ausstellungsdatum]]></translation>
       <translation phrase="N/A"><![CDATA[Nicht verfügbar]]></translation>
-      <translation phrase="Not Yet Paid or Canceled"><![CDATA[Noch nicht bezahlt oder storniert]]></translation>
       <translation phrase="Password requires at least one lower case and at least one upper case letter"><![CDATA[Das Kennwort muss mindestens aus einem Kleinbuchstaben und einen Großbuchstaben enthalten]]></translation>
       <translation phrase="Project does not exist or it was deleted"><![CDATA[Das Projekt existiert nicht oder wurde gelöscht]]></translation>
       <translation phrase="Package version is required parameter"><![CDATA[Die Paket Version ist ein benötigter Parameter]]></translation>
@@ -4139,7 +4123,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Total Invoiced"><![CDATA[gesamter Rechnungsbetrag]]></translation>
       <translation phrase="There are &lt;u&gt;&lt;strong&gt;:num tasks completed in more than 30 days ago&lt;/strong&gt;&lt;/u&gt;. Click on the button below to move them to archive"><![CDATA[Es gibt &lt;u&gt;&lt;strong&gt;:num Aufgaben die vor mehr als 30 Tagen abgeschlossen worden sind&lt;/strong&gt;&lt;/u&gt;. Klicken Sie auf den Button unten um diese zu archivieren.]]></translation>
       <translation phrase="There is &lt;u&gt;one task completed in more than 30 days ago&lt;/u&gt;. Click on the button below to move it to archive"><![CDATA[Es gibt &lt;u&gt;eine Aufgabe die vor mehr als 30 Tagen abgeschlossen worden ist&lt;/u&gt;. Klicken Sie auf den Button unten um diese zu archivieren.]]></translation>
-      <translation phrase="Track expenses to know how much you have additionaly spent on this project, apart from the tracked time. This feature is great for tracking travel expenses, material costs, hosting and domain names and all other, non-time project expenses"><![CDATA[Verfolgen Ausgaben zu wissen, wie viel Sie zusätzlich zu diesem Projekt verbraucht, abgesehen von der aufgezeichneten Zeit. Diese Funktion ist ideal für die Verfolgung von Reisekosten, Sachkosten, Hosting und Domain-Namen und alle anderen Projektkosten]]></translation>
       <translation phrase="Task segments let you filter tasks that match specified criteria. For example, you can define segment &quot;Defects&quot; that lists all tasks that are in &quot;Bug Reports&quot; category and have CONFIRMED or FIXED label"><![CDATA[Aufgaben-Segmente können Sie Aufgaben filtern, die bestimmten Kriterien entsprechen. Zum Beispiel können Sie festlegen, Segment &quot;Fehler&quot;, die alle Aufgaben, die in &quot;Bug ​​Reports&quot; Kategorie sind aufgelistet und bestätigt haben oder Etikett FIXED]]></translation>
       <translation phrase="This logo will be used only on login and reset password pages. We recommend transparent PNG file with dimensions 256x256px. If image is not that size it will be constrained to those dimensions."><![CDATA[Dieses Logo wird nur auf Anmeldung und Passwort zurücksetzen Seiten verwendet werden. Wir empfehlen transparente PNG-Datei mit den Maßen 256x256px. Wenn die Grafik ist nicht so groß wird, um diesen Dimensionen eingeschränkt werden.]]></translation>
       <translation phrase="Unpacking Failed"><![CDATA[Entpacken fehlgeschlagen]]></translation>
@@ -4531,7 +4514,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Edit Announcement"><![CDATA[Ankündigung bearbeiten]]></translation>
       <translation phrase="Enable for Everyone by Default"><![CDATA[Aktivieren für jeden als Standard]]></translation>
       <translation phrase="Email Tasks"><![CDATA[E-Mail Aufgaben]]></translation>
-      <translation phrase="Email Dicussions"><![CDATA[E-Mail Diskussionen]]></translation>
       <translation phrase="Email Files"><![CDATA[E-Mail Dateien]]></translation>
       <translation phrase="Enter task summary as email subject"><![CDATA[Geben Sie die Aufgabe Beschreibung als Betreffzeile an]]></translation>
       <translation phrase="Edit Template"><![CDATA[Schablone editieren]]></translation>
@@ -4709,7 +4691,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Remove Announcement"><![CDATA[Entferne Ankündigung]]></translation>
       <translation phrase="Role of last administrator account can't be changed"><![CDATA[Die Rolle des letzten Administrators kann nicht geändert werden]]></translation>
       <translation phrase="Role type is required"><![CDATA[Der Rollentyp ist notwendig]]></translation>
-      <translation phrase="Role used by the regular company employees or organisation member. This role provides limited access by default, but has a lot of extra options that administrators can give to individual employees to broaden their reach withing activeCollab"><![CDATA[Die Rolle wird genutzt bei normalen Firmen Mitarbeitern und Organisations Mitgliedern. Diese Rolle ermöglicht limitierten Zugriff per Standard, aber hat eine Menge an Optionen, die die Administratoren individuell zuweisen können.]]></translation>
       <translation phrase="Replies to email notifications are automatically submitted as comments, and &lt;u&gt;that functionality has nothing to do with this action&lt;/u&gt;. Use this action if you want to convert some non-reply incoming messages to comments"><![CDATA[Antworten auf E-Mail Benachrichtigungen werden automatisch als Kommentare behandelt und hat &lt;u&gt;nichts mir dieser Aktion zu tun&lt;/u&gt;. Nutzen Sie diese Aktion um einige eingehende Nachrichten zu kommentieren]]></translation>
       <translation phrase="Scheme does not exists"><![CDATA[Schema existiert nicht]]></translation>
       <translation phrase="Save Config"><![CDATA[Speichere Konfiguration]]></translation>
@@ -4747,7 +4728,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Status changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Status geändert von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt;]]></translation>
       <translation phrase="Show tracked time by active or selected user for current and previous week"><![CDATA[Zeige aufgezeichnete Zeit des aktiven oder ausgewählten Benutzer für die aktuelle oder vorherige Woche]]></translation>
       <translation phrase="Simply forward any messages and system will import it as a Text Document in Files section"><![CDATA[Leiten Sie einfach eine Nachricht weiter und das System wird diese als Text Dokument in der Datei Sektion importieren]]></translation>
-      <translation phrase="System can show that there are new thing happenening in several ways: using number of updates in the lower right corner, by showing notification messages in upper right corner or by updating the list in the background without interuption you"><![CDATA[Das System kann zeigen was passiert auf verschiedenen Wegen: Anzahl der Aktualisierungen in der unteren rechten Ecke, durch Anzeige der Benachrichtigungen in der rechten oberen Ecke oder durch Aktualisierung der Liste im Hintergrund ohne Störungen]]></translation>
       <translation phrase="This ip address is not valid."><![CDATA[Die IP Adresse ist ungültig.]]></translation>
       <translation phrase="This ip address is blocked by firewall."><![CDATA[Die IP Adresse ist blockiert durch die Firewall.]]></translation>
       <translation phrase="This ip address is blocked by firewall due too many failed logins."><![CDATA[Die IP Adresse ist blockiert durch die Firewall aufgrund zu vieler fehlerhafter Anmeldeversuchen.]]></translation>
@@ -4757,7 +4737,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Temporarily Blocked"><![CDATA[Temporär blockiert]]></translation>
       <translation phrase="Theme with that name already exists"><![CDATA[Thema mit diesem Name existiert bereits]]></translation>
       <translation phrase="This :type is private. It is visible only to the following user types: :user_types"><![CDATA[Das :type ist privat. Es ist sichtbar nur für folgende Benutzertypen: :user_types]]></translation>
-      <translation phrase="This &quot;:value&quot; is your IP address which cannot be blocked right now, please remove it from list and then save again"><![CDATA[Die &quot;:value&quot; ist Ihre IP Adresse und kann zur zeit nicht blockiert werden. Bitte entfernen Sie diese von der Liste und speichern Sie erneut]]></translation>
+      <translation phrase="This &quot;:value&quot; is your IP address which cannot be blocked right now, please remove it from list and then save again"><![CDATA[Die &quot;:value&quot; ist Ihre IP Adresse und kann zur Zeit nicht blockiert werden. Bitte entfernen Sie diese von der Liste und speichern Sie erneut]]></translation>
       <translation phrase="There are no announcements defined"><![CDATA[Es sind keine Ankündigungen definiert]]></translation>
       <translation phrase="There are no unread notifications at this moment"><![CDATA[Es gibt keine ungelesenen Benachrichtigungen zur Zeit]]></translation>
       <translation phrase="There are no notifications at this moment"><![CDATA[Es gibt keine Benachrichtigungen zur Zeit]]></translation>
@@ -4790,7 +4770,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Template name is required"><![CDATA[Schablonen Name ist notwendig]]></translation>
       <translation phrase="Text of your email message will be set as detailed discussion description"><![CDATA[Der Text der E-Mail wird als detaillierte Diskussionsbeschreibung verwandt.]]></translation>
       <translation phrase="This object will be created if email subject doesn't meet any of the predefined Mail To Project actions."><![CDATA[Dieses Objekt wird angelegt, wenn der E-Mail Betreff nicht zu einem definierten Mail zu Projekt Aktion passt.]]></translation>
-      <translation phrase="The rules that system follows when convering your messages into project elements are described below"><![CDATA[Die Regeln, die das System anwendet, wenn Nachrichten in das Projekt konvertiert werden]]></translation>
       <translation phrase="unknown"><![CDATA[unbekannt]]></translation>
       <translation phrase="Use this scheme"><![CDATA[Nutze dieses Schema]]></translation>
       <translation phrase="Use API and Feeds"><![CDATA[Nutze API und Feeds]]></translation>
@@ -4810,7 +4789,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Week Day"><![CDATA[Wochentag]]></translation>
       <translation phrase="Workflow Settings"><![CDATA[Workflow EInstellungen]]></translation>
       <translation phrase="What will happen?"><![CDATA[Was wird passieren?]]></translation>
-      <translation phrase="With this option enabled, emails sent to project-specific addresses will be imported into that project as project objects, defined in the email subject."><![CDATA[Mit dieser Option aktiviert, werden E-Mails, de an das Projekt E-Mail Adresse gesendet werden, als der jeweilige Objekt Type konvertiert, der in der Betreff Zeile angegeben ist.]]></translation>
       <translation phrase="We have an update that you might be interested in, Task &quot;&lt;a href=&quot;:url&quot; style=&quot;:link_style&quot; target=&quot;_blank&quot;&gt;:name&lt;/a&gt;&quot; has been updated. &lt;/br&gt; &lt;/br&gt; Changes:"><![CDATA[Wir haben eine Aktualisierung in der Aufgabe &quot;&lt;a href=&quot;:url&quot; target=&quot;_blank&quot;&gt;:name&lt;/a&gt;&quot;die Sie interessieren könnte.   Änderungen:]]></translation>
       <translation phrase="Your Password has been Changed"><![CDATA[Ihr Kennwort wurde geändert]]></translation>
       <translation phrase="You will be replacing :replacing_user on ':project' project"><![CDATA[Sie werden :replacing_user im Projekt ':project' austauschen]]></translation>
@@ -4971,12 +4949,10 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Your :account_type is suspended and will be removed on :date. &lt;a href=':buy_now_url'&gt;Click here&lt;/a&gt; to place an order and avoid account removal."><![CDATA[Ihr Zugang :account_type ist gesperrt und wird am :date gelöscht. &lt;a href=&quot;:buy_now_url&quot;&gt;Klicken Sie hier&lt;/a&gt; um eine Bestellung aufzugeben und damit die Löschung zu verhindern.]]></translation>
       <translation phrase=":name Time and Expenses"><![CDATA[:name Zeiten und Kosten]]></translation>
       <translation phrase="Article"><![CDATA[Artikel]]></translation>
-      <translation phrase="An error occured. Please try again later"><![CDATA[Ein Fehler ist aufgetreten. Versuchen Sie es später erneut.]]></translation>
       <translation phrase="API Key"><![CDATA[API Schlüssel]]></translation>
       <translation phrase="All Day Event"><![CDATA[ganztägige Veranstaltung]]></translation>
       <translation phrase="Administrators Only"><![CDATA[Nur Administratoren]]></translation>
       <translation phrase="Add Event"><![CDATA[Veranstaltung hinzufügen]]></translation>
-      <translation phrase="Are you sure you want move this event to trash?"><![CDATA[Sin Sie sicher, dass Sie diese Veranstaltung in den Papierkorb verschieben möchten?]]></translation>
       <translation phrase="Add Calendar"><![CDATA[Kalender hinzufügen]]></translation>
       <translation phrase="Add new calendar"><![CDATA[Neuen Kalender hinzufügen]]></translation>
       <translation phrase="Add New Event"><![CDATA[Neue Veranstaltung hinzufügen]]></translation>
@@ -5028,7 +5004,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Comment not provided for this payment"><![CDATA[Kommentare nicht unterstützt für diese Zahlung]]></translation>
       <translation phrase="Calendar has been trashed"><![CDATA[Kalender wurde gelöscht]]></translation>
       <translation phrase="Calendar event has been created"><![CDATA[Kalender Veranstaltung wurde erstellt]]></translation>
-      <translation phrase="Calendar event has been deleted"><![CDATA[Kalender Veranstaltung wurde gelöscht]]></translation>
       <translation phrase="Comments from &quot;:name&quot; ToDo List"><![CDATA[Kommentare von der Aufgabenliste &quot;:name&quot;]]></translation>
       <translation phrase="Chat Now"><![CDATA[Jetzt chatten]]></translation>
       <translation phrase="Call :phone_number"><![CDATA[Anruf :phone_number]]></translation>
@@ -5076,7 +5051,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Import Feed"><![CDATA[Feed importieren]]></translation>
       <translation phrase="Import File"><![CDATA[Datei importieren]]></translation>
       <translation phrase="Import data from :name"><![CDATA[Daten von :name importieren]]></translation>
-      <translation phrase="Import from external source"><![CDATA[Von externe Quelle importieren]]></translation>
       <translation phrase="Import Settings"><![CDATA[Einstellungen importieren]]></translation>
       <translation phrase="Import Users in"><![CDATA[Benutzer importieren in]]></translation>
       <translation phrase="Import TODO lists as Task Category and TODOs as Tasks"><![CDATA[Aufgabenliste als Aufgabenkategorien und Aufgaben importieren]]></translation>
@@ -5102,14 +5076,12 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="New Calendar"><![CDATA[Neuer Kalender]]></translation>
       <translation phrase="New Event"><![CDATA[Neue Veranstaltung]]></translation>
       <translation phrase="New Data Source"><![CDATA[Neue Datenquelle]]></translation>
-      <translation phrase="No Data Sources defined. Go to administration page and define one."><![CDATA[Keine Datenquelle definiert. Gehen Sie in die Einstellungen und definieren Sie dort welche.]]></translation>
       <translation phrase="Open Image in New Tab"><![CDATA[Bild in einem neuen Tab öffnen]]></translation>
       <translation phrase="Open Link in New Tab"><![CDATA[Link in einem neuen Tab öffnen]]></translation>
       <translation phrase="Our Team Only"><![CDATA[Nur unser Team]]></translation>
       <translation phrase="Our Team and Subcontractors"><![CDATA[Unser Team und Subunternehmer]]></translation>
       <translation phrase="Object is not instance of Calendar"><![CDATA[Objekt ist keine Instanz von Kalender]]></translation>
       <translation phrase="Object is not instance of CalendarEvent"><![CDATA[Objekt ist keine Instanz von Kalenderveranstaltungen]]></translation>
-      <translation phrase="Our Comment (Private, Not Visibile to the Client)"><![CDATA[Unser Kommentar (Privat, nicht für den Kunden sichtbar)]]></translation>
       <translation phrase="Prev"><![CDATA[zurück]]></translation>
       <translation phrase="Public Key"><![CDATA[Öffentlicher Schlüsssel]]></translation>
       <translation phrase="Private Key"><![CDATA[Privater Schlüsssel]]></translation>
@@ -5153,7 +5125,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="When Records are Displayed as Individual Invoice Items"><![CDATA[Wenn Aufzeichnungen als einzelne Rechnungspositionen angezeigt werden]]></translation>
       <translation phrase="You haven't imported any projects from this Basecamp account."><![CDATA[Sie haben keine Projekte von diesem Basecamp Zugang importiert.]]></translation>
       <translation phrase="You have imported :num of :total_projects projects from this Basecamp account."><![CDATA[Sie haben :num von :total_projects Projekten von diesem Basecamp Zugang importiert.]]></translation>
-      <translation phrase="You have imported all data from this basecamp account"><![CDATA[Sie haben alle Projekte von diesem Basecamp Zugang importiert.]]></translation>
       <translation phrase="-:--"><![CDATA[-:--]]></translation>
       <translation phrase="-- do not share --"><![CDATA[-- nicht teilen --]]></translation>
       <translation phrase=":num_users users available for import"><![CDATA[:num_users Benutzer sind verfügbar für einen Import]]></translation>
@@ -5174,7 +5145,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="See What's New"><![CDATA[Sehen Sie was neu ist]]></translation>
       <translation phrase="Sufix with ' - '"><![CDATA[Sufix mit ' - ']]></translation>
       <translation phrase="Sufix with ': '"><![CDATA[Sufix mit ': ']]></translation>
-      <translation phrase="Succesfully connected to :name\"><![CDATA[Erfolgreich verbunden mit :name\]]></translation>
       <translation phrase="Sum all time records grouped by task"><![CDATA[Summe aller Zeiteinträge gruppiert nach Aufgabe]]></translation>
       <translation phrase="Sum all time records grouped by project"><![CDATA[Summe aller Zeiteinträge gruppiert nach Projekt]]></translation>
       <translation phrase="Sum all time records grouped by job type"><![CDATA[Summe aller Zeiteinträge gruppiert nach Aufgabentyp]]></translation>
@@ -5224,7 +5194,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Anchor"><![CDATA[Anker]]></translation>
       <translation phrase="Add New Comment Interceptor"><![CDATA[Neues Entwurfsmuster für einen Kommentar hinzufügen]]></translation>
       <translation phrase="Alignment"><![CDATA[Ausrichtung]]></translation>
-      <translation phrase="All My Tasks"><![CDATA[Alle meine Aufgaben]]></translation>
       <translation phrase="Access Mizen?"><![CDATA[Zugriff auf Mizen?]]></translation>
       <translation phrase="Always Show Amount Paid and Balance Due"><![CDATA[Immer bereits bezahlten Betrag und Restbetrag anzeigen]]></translation>
       <translation phrase="After Selected Date ..."><![CDATA[Nach dem gewählten Datum ...]]></translation>
@@ -5273,7 +5242,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Everything in My Projects (default)"><![CDATA[Alles in meinen Projekten (Standard)]]></translation>
       <translation phrase="Everything you ever wanted to know about activeCollab"><![CDATA[Alles was Sie schon immer über activeCollab wissen wollten]]></translation>
       <translation phrase="Font Color"><![CDATA[Zeichenfarbe]]></translation>
-      <translation phrase="Filter:"><![CDATA[Filter:]]></translation>
       <translation phrase="Forecasted Completion Date"><![CDATA[Prognostiziertes Abschlussdatum]]></translation>
       <translation phrase="Header 1"><![CDATA[Überschrift 1]]></translation>
       <translation phrase="Header 2"><![CDATA[Überschrift 2]]></translation>
@@ -5455,7 +5423,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="List of commits"><![CDATA[Liste der Commits]]></translation>
       <translation phrase="Leave empty to use system default"><![CDATA[Lassen Sie das Feld leer, um die System Standards zu nutzen]]></translation>
       <translation phrase="Let users access Global Documents section"><![CDATA[Lassen Sie die Benutzer auf die globalen Dokumente zugreifen]]></translation>
-      <translation phrase="Last payment for your activeCollab Cloud was not successfull, please &lt;a href=&quot;:billing_info_url&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt; to update your billing information"><![CDATA[Die letzte Zahlung für Ihre activeCollab Cloud war nicht erfolgreich. Bitte  &lt;a href=&quot;:billing_info_url&quot; target=&quot;_blank&quot;&gt;klicken Sie hier&lt;/a&gt;, um Ihre Zahlungsinformationen zu aktualisieren.]]></translation>
       <translation phrase="Let user access and manage documents in Global Documents section"><![CDATA[Lassen Sie die Benutzer auf die globalen Dokumente zugreifen und die Dokumente verwalten]]></translation>
       <translation phrase="Loading commited files"><![CDATA[Lade committete Dateien ]]></translation>
       <translation phrase="Loading repository tree"><![CDATA[Lade Repository Baum]]></translation>
@@ -5642,5 +5609,154 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; posted &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; document"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat das Dokument &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; veröffentlicht]]></translation>
       <translation phrase="&lt;a href=&quot;https://www.activecollab.com/timer.html&quot;&gt;activeCollab Timer&lt;/a&gt; is a free application which automatically tracks time while you are working on your tasks and projects. It will run in the background and keep track of how much time you spend working on each task. When you are done, click on the Submit button and the activeCollab Timer will automatically create a time record in your activeCollab system. The Timer application is available for Windows, Mac and Linux"><![CDATA[&lt;a href=&quot;https://www.activecollab.com/timer.html&quot;&gt;activeCollab Timer&lt;/a&gt; ist eine freie Anwendung, die automatisch die Zeit aufzeichnet, währedn Sie an Aufgaben und Projekten arbeiten. Diese läuft im Hintergrund und zeichnet auf, wie viel Zeit Sie für jede Aufagbe benötigen. Wenn Sie fertig sind, klicken Sie auf übertragen und es wird automatisch ein Zeiteintrag im activeCollab System erzeugt. Die Timer Anwendung ist verfügbar für Windows, mac und Linux.]]></translation>
       <translation phrase="On Commit Hook"><![CDATA[Bei Commit Hook]]></translation>
+      <translation phrase="APC extension is installed and enabled"><![CDATA[APC Erweiterung ist installiert und aktiviert]]></translation>
+      <translation phrase="APC is used as opcode and data cache and therfore you need to allocate more memory to it"><![CDATA[APC wird benutzt als Opcode und Daten Cache und hierfür müssen Sie mehr Speicher dafür bereitstellen]]></translation>
+      <translation phrase="APC extension is installed, but not enabled. Please enable APC caching in your php.ini"><![CDATA[APC Erweiterung ist installiert, aber nicht aktiviert. Bitte aktivieren Sie APC Caching in Ihrer  php.ini]]></translation>
+      <translation phrase="Are you sure that you want to remove Orphan files?"><![CDATA[Sind Sie sicher, dass Sie verwaiste Dateien löschen möchten?]]></translation>
+      <translation phrase="An error occurred. Please try again later"><![CDATA[Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.]]></translation>
+      <translation phrase="Are you sure you want move this subtask to trash?"><![CDATA[Sind Sie sicher, dass Sie diese Teilaufgabe in den Papierkorb verschieben möchten?]]></translation>
+      <translation phrase="admins only"><![CDATA[Nur für Adminstratoren]]></translation>
+      <translation phrase="Are you sure you want move this milestone to trash?"><![CDATA[Sind Sie sicher, dass Sie diesen Meilenstein in den Papierkorb verschieben wollen?]]></translation>
+      <translation phrase="Are you sure you want move this task to trash?"><![CDATA[Sind Sie sicher, dass Sie diese Aufgabe in den Papierkorb verschieben wollen?]]></translation>
+      <translation phrase="activeCollab is running in debug mode, please turn it off. For more information, check &lt;a href=&quot;:url&quot; target=&quot;_blank&quot;&gt;this documentation article&lt;/a&gt;"><![CDATA[activeCollab läuft im Debug Modus. Bitte stellen Sie diesen aus. Weitere Informationen finden Sie hier &lt;a href=&quot;:url&quot; target=&quot;_blank&quot;&gt;in dieser Dokumentation&lt;/a&gt;]]></translation>
+      <translation phrase="Bubble not initialized"><![CDATA[Blase nicht initialisiert]]></translation>
+      <translation phrase="Configure Data Cache"><![CDATA[Daten Cache konfigurieren]]></translation>
+      <translation phrase="Check for Potential Performance Issues"><![CDATA[Prüfung auf potentielle Geschwindigkeitsprobleme]]></translation>
+      <translation phrase="Color removed"><![CDATA[Farbe entfernt]]></translation>
+      <translation phrase="Calendar Event"><![CDATA[Kalender Ereignis]]></translation>
+      <translation phrase="Calendar Edit"><![CDATA[Kalender editieren]]></translation>
+      <translation phrase="calendar event"><![CDATA[Kalender Ereignis]]></translation>
+      <translation phrase="Completed by :action_by"><![CDATA[Abgeschlossen von :action_by]]></translation>
+      <translation phrase="Choose target project first"><![CDATA[Wählen Sie zuerst das Zielprojekt]]></translation>
+      <translation phrase="Calendar set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Kalender wurde auf folgenden Wert &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="Calendar changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Kalender wurde von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="Color set to &lt;span style=&quot;color: #:new_value&quot;&gt;&#9608;&lt;/span&gt;"><![CDATA[Farbe geändert zu &lt;span style=&quot;color: #:new_value&quot;&gt;█&lt;/span&gt;]]></translation>
+      <translation phrase="Color changed from &lt;span style=&quot;color: #:old_value;&quot;&gt;&#9608;&lt;/span&gt; to &lt;span style=&quot;color: #:new_value&quot;&gt;&#9608;&lt;/span&gt;"><![CDATA[Farbe geändert von &lt;span style=&quot;color: #:old_value;&quot;&gt;█&lt;/span&gt; auf &lt;span style=&quot;color: #:new_value&quot;&gt;█&lt;/span&gt;]]></translation>
+      <translation phrase="Commands listed above are just examples"><![CDATA[Die Befehle, die oben aufgelistet sind, sind nur Beispiele]]></translation>
+      <translation phrase="Calendar set to empty value"><![CDATA[Kalender wurde auf einen leeren Wert geändert]]></translation>
+      <translation phrase="Data Cache"><![CDATA[Daten Cache]]></translation>
+      <translation phrase="Data cache is not enabled"><![CDATA[Daten Cache ist nicht aktiviert]]></translation>
+      <translation phrase="daily"><![CDATA[täglich]]></translation>
+      <translation phrase="do not repeat"><![CDATA[nicht wiederholen]]></translation>
+      <translation phrase="disabled"><![CDATA[deaktiviert]]></translation>
+      <translation phrase="Enable InnoDB"><![CDATA[InnoDB aktivieren]]></translation>
+      <translation phrase="Email Discussions"><![CDATA[E-Mail Diskussion]]></translation>
+      <translation phrase="Ends on set to empty value"><![CDATA[Das Ende wurde auf einen leeren Wert geändert]]></translation>
+      <translation phrase="Ends on set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Das Ende wurde auf &lt;b&gt;:new_value&lt;/b&gt; geänert]]></translation>
+      <translation phrase="Ends on changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Das Ende wurde von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="Ends on unknown"><![CDATA[Das Ende ist unbekannt]]></translation>
+      <translation phrase="Each escalation should have higher overdue value then previous defined overdue value."><![CDATA[Jede Eskalation sollte eine spätere Überfälligkeit haben, als die vorhergehende Überfälligkeitswert.]]></translation>
+      <translation phrase="Good Morning"><![CDATA[Guten Morgen]]></translation>
+      <translation phrase="InnoDB support is enabled"><![CDATA[InnoDB Unterstützung ist aktiviert]]></translation>
+      <translation phrase="InnoDB support is not enabled"><![CDATA[InnoDB Unterstützung ist nicht aktiviert]]></translation>
+      <translation phrase="Include Data from All Projects"><![CDATA[Inkludiere Daten von allen Projekten]]></translation>
+      <translation phrase="Import from this source"><![CDATA[Import von dieser Quelle]]></translation>
+      <translation phrase="In some cases code from old versions can significantly decrease system performance. We recommend that you clean up old versions regularly"><![CDATA[In manchen Fällen, kann der Code von alten Versionen die System Performance signifikant verringern. Wir empfehlen, dass Sie alte Versionen regelmässig aufräumen.]]></translation>
+      <translation phrase="Late or Today"><![CDATA[Verspätet oder heute]]></translation>
+      <translation phrase="Learn more"><![CDATA[Erfahren Sie mehr]]></translation>
+      <translation phrase="Last payment for your activeCollab Cloud was not successful, please &lt;a href=&quot;:billing_info_url&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt; to update your billing information"><![CDATA[Die letzte Zahlung Ihrer activeCollab Cloud war nicht erfolgreich. Bitte aktualisieren Sie &lt;a href=&quot;:billing_info_url&quot; target=&quot;_blank&quot;&gt;Hier&lt;/a&gt; Ihre Zahlungsinformationen.]]></translation>
+      <translation phrase="MySQL InnoDB Support"><![CDATA[MySQL InnoDB Unterstützung]]></translation>
+      <translation phrase="Mention"><![CDATA[Erwähnung]]></translation>
+      <translation phrase="managers only"><![CDATA[Nur Manager]]></translation>
+      <translation phrase="members only"><![CDATA[Nur Mitglieder]]></translation>
+      <translation phrase="monthly"><![CDATA[monatlich]]></translation>
+      <translation phrase="Morning Paper"><![CDATA[Morgenzeitung]]></translation>
+      <translation phrase="Morning Paper is a daily email which recaps the important events which happened the previous business day, as well as what is due today"><![CDATA[Die Morgenzeitung ist eine tägliche E-Mail, die über die Ereignisse des letzten Arbeitstages informiert und über dass, was heute fällig ist]]></translation>
+      <translation phrase="Morning Paper is an email notification that activeCollab sends each morning to all team members. It contains information about assignments that where completed yesterday, as well as what is due today"><![CDATA[Die Morgenzeitung ist eine E-Mail Benachrichtigung, die activeCollab jeden Morgen an alle Team Mitglieder versendet. Diese enthält Zuordnungen die am Vortag erledigt worden sind und was heute fällig ist.]]></translation>
+      <translation phrase="New Calendar Event"><![CDATA[Neues Kalender Ereignis]]></translation>
+      <translation phrase="Not Paid Yet, or Canceled"><![CDATA[Noch nicht bezahlt oder storniert]]></translation>
+      <translation phrase="No, share cannot add events"><![CDATA[Nein, geteilte können keine Ereignisse hinzufügen]]></translation>
+      <translation phrase="Old Application Versions"><![CDATA[Alte Anwendungsversionen]]></translation>
+      <translation phrase="Orphan Files"><![CDATA[Verwaiste Dateien]]></translation>
+      <translation phrase="Orphan files removed successfully"><![CDATA[Verwaiste Dateien erfolgreich entfernt]]></translation>
+      <translation phrase="One Day Late"><![CDATA[Einen Tag verspätet]]></translation>
+      <translation phrase="Open (not Completed)"><![CDATA[Offen (nicht abgeschlossen)]]></translation>
+      <translation phrase="our team and subcontractors"><![CDATA[Unser Team und Subunternehmer]]></translation>
+      <translation phrase="Our Comment (Private, Not Visible to the Client)"><![CDATA[Unsere Kommentare (Privat, nicht für den Kunden ersichtlich)]]></translation>
+      <translation phrase="Opcache extension is installed and enabled"><![CDATA[Opcache Erweiterung ist installiert und aktiviert]]></translation>
+      <translation phrase="Opcode cache extension (Opcache, APC or WinCache) is not installed. Usage of opcode caching is curcial for good PHP performance"><![CDATA[Opcode Cache Erweiterung (Opcache, APC oder WinCache) ist nicht installiert. Die Nutzung von Opcode Caching ist entscheidend für eine gute PHP Performance]]></translation>
+      <translation phrase="Potential performance issues found"><![CDATA[Potentielle Performance Probleme gefunden]]></translation>
+      <translation phrase="Performance Checklist"><![CDATA[Performance Checkliste]]></translation>
+      <translation phrase="Please enable &quot;CHECK_FOR_NEW_VERSION&quot; in your config.php file"><![CDATA[Bitte aktivieren Sie &quot;CHECK_FOR_NEW_VERSION&quot; in Ihrer config.php Datei]]></translation>
+      <translation phrase="Please enable cookies in your browser - the application cannot work properly otherwise"><![CDATA[Bitte aktivieren Sie Cookies in Ihrem Browser - die Anwendung kann sonst nicht fehlerfrei arbeiten]]></translation>
+      <translation phrase="Please consult your system administrator or hosting provider for exact location of PHP executables and for assistance with getting these commands to execute properly on your server"><![CDATA[Bitte wenden Sie sich an Ihren Systemadministrator oder Hosting-Provider für den genauen Pfad von PHP und für Unterstützung, damit diese Befehle richtig auf dem Server ausgeführt werden können]]></translation>
+      <translation phrase="Please consult your system administrator or hosting provider for exact location of cURL executables and for assistance with getting these commands to execute properly on your server"><![CDATA[Bitte wenden Sie sich an Ihren Systemadministrator oder Hosting-Provider für den exkaten Pfad der cURL Anwendung und für Unterstützung, damit diese Befehle richtig auf dem Server ausgeführt werden können]]></translation>
+      <translation phrase="Remove Old Versions"><![CDATA[Alte Versionen entfernen]]></translation>
+      <translation phrase="Remove Orphan files"><![CDATA[Verwaiste Dateien löschen]]></translation>
+      <translation phrase="Receive Morning Paper"><![CDATA[Empfang der Morgenzeitung]]></translation>
+      <translation phrase="Retain anonymous subscribers"><![CDATA[Anonyme Abonnenten behalten]]></translation>
+      <translation phrase="Retrospective for :date"><![CDATA[Rückblick für :date]]></translation>
+      <translation phrase="Releasing Time and Expense Records"><![CDATA[Freigabe von Zeit- und Aufwandsaufzeichnungen]]></translation>
+      <translation phrase="Repeat period removed"><![CDATA[Wiederholungszeitraum entfernt]]></translation>
+      <translation phrase="Repeat period set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Wiederholungszeitraum geändert auf &lt;b&gt;:new_value&lt;/b&gt;]]></translation>
+      <translation phrase="Repeat period changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Wiederholungszeitraum geändert von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt;]]></translation>
+      <translation phrase="Role used by the regular company employees or organisation member. This role provides limited access by default, but has a lot of extra options that administrators can give to individual employees to broaden their reach within activeCollab"><![CDATA[Die Rolle von den reguläre Mitarbeitern des Unternehmens oder der Organisation Element verwendet. Diese Rolle bietet eingeschränkten Zugriff standardmäßig, aber hat eine Menge von Zusatzoptionen, die Administratoren an einzelne Mitarbeiter vergeben können, um ihre Möglichkeiten innerhalb ActiveCollab zu erweitern]]></translation>
+      <translation phrase="Successfully connected to :name\"><![CDATA[Erfolgreich verbunden mit :name\]]></translation>
+      <translation phrase="Started by :action_by"><![CDATA[Gestartet von :action_by]]></translation>
+      <translation phrase="Starts on unknown"><![CDATA[Unbekannter Start]]></translation>
+      <translation phrase="Starts on set to empty value"><![CDATA[Start wurde auf einen leeren Wert geändert]]></translation>
+      <translation phrase="Starts on set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Start wurde auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="Starts on changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Start wurde von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="Share disabled"><![CDATA[Anteil dekativiert]]></translation>
+      <translation phrase="Share set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Anteil geändert auf &lt;b&gt;:new_value&lt;/b&gt;]]></translation>
+      <translation phrase="Share changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Anteile von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="selected users"><![CDATA[Ausgewählte Benutzer]]></translation>
+      <translation phrase="Subscription Added"><![CDATA[Abonnement hinzugefügt]]></translation>
+      <translation phrase="Shared memory storage size (:option_name) is set to :size (you should have at least :min_size)"><![CDATA[Größe des geteilten Speichers (:option_name) wurde auf den Wert :size geändert (Dieser sollte mindestens die größe :min_size haben)]]></translation>
+      <translation phrase="Scheduled tasks can be triggered by executing following commands"><![CDATA[Wiederkehrende Aufgaben können durch folgenden Befehle ausgeführt werden]]></translation>
+      <translation phrase="System can show that there are new things happening in several ways: using number of updates in the lower right corner, by showing notification messages in upper right corner or by updating the list in the background without interrupting you"><![CDATA[Das System kann Neuigkieten in mehrfacher Hinsicht anzeigen: Mit der Anzahl der Updates in der rechten unteren Ecke, in den Benachrichtigungsmeldungen in der rechten oberen Ecke oder durch die Aktualisierung der Liste im Hintergrund, ohne Sie bei dr Arbeit zu unterbrechen]]></translation>
+      <translation phrase="Time removed"><![CDATA[Zeit entfernt]]></translation>
+      <translation phrase="Time set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Zeit geändert auf &lt;b&gt;:new_value&lt;/b&gt;]]></translation>
+      <translation phrase="Time changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[Zeit von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
+      <translation phrase="This feature turns every project into a mailbox. Incoming messages are routed based on their subject"><![CDATA[Diese Funktion macht jedes Projekt zu einem Postfach. Eingehende Nachrichten werden auf der Grundlage ihres Betreffs verteilt]]></translation>
+      <translation phrase="The rules that system follows when converting your messages into project elements are described below"><![CDATA[Die Regeln, die das System nutzt, wenn Ihre Nachrichten in Projektelemente konvertiert werden, sind im Folgenden beschrieben]]></translation>
+      <translation phrase="Track expenses to know how much you have additionally spent on this project, apart from the tracked time. This feature is great for tracking travel expenses, material costs, hosting and domain names and all other, non-time project expenses"><![CDATA[Verfolgen Sie den Aufwand um zu wissen, wie viel Sie zusätzlich zu diesem Projekt verbraucht haben, abgesehen von der Zeit die aufgezeichnet wurde. Diese Funktion ist ideal für die Überwachung von Reisekosten, Materialkosten, Hosting-und Domain-Namen und alle anderen, nicht Zeit-Projekt-Kosten]]></translation>
+      <translation phrase="There are at least three type of scheduled events - events executed frequently (every 3 - 5 minutes), events executed once an hour and events executed once a day. These events need to be triggered from outside, by system utility used to periodically trigger and execute tasks"><![CDATA[Es gibt mindestens drei Arten von geplanten Aufgaben - Aufgaben die häufig ausgeführt werden (alle 3-5 Minuten), Aufgaben die einmal pro Stunde und Aufgaben einmal pro Tag ausgeführt werden. Diese Aufgaben müssen von außen ausgelöst werden, zum Beispiel durch ein System-Utility, um in regelmäßigen Abständen auszulösen und Aufgaben ausführen]]></translation>
+      <translation phrase="This project cannot be imported because it requires :num team members but you already have :used of maximum :max team members. If you need additional member slots, please upgrade to a larger plan."><![CDATA[Das Projekt kann nicht importiert werden, denn es verlangt :num Team Mitglieder, aber Sie haben bereits :used von der Maximalen Anzahl :max an team Mitgliedern verbraucht. Wenn Sie mehr Mitglieder benötige, müssen Sie einen auf einen größeren Plan updaten.]]></translation>
+      <translation phrase="Undo"><![CDATA[Rückgängig]]></translation>
+      <translation phrase="Use this checklist to set up your platform for optimal performance"><![CDATA[Nutzen Sie diese Checkliste um die optimale Performance für Ihre Umgebung zu erreichen]]></translation>
+      <translation phrase="Users cannot be imported because your plan allows :max team members."><![CDATA[Bejutzer können nicht importiert werden, weil Sie die maximale Anzahl an Team Mitgliedern von :max in Ihr Plan verwandt haben.]]></translation>
+      <translation phrase="User :email_address has been successfully removed from &quot;:object_name&quot; notification list"><![CDATA[Benutzer :email_address wurde erfolgreich von der Benachrichtigungsliste &quot;:object_name&quot; entfernt]]></translation>
+      <translation phrase="Value need to be valid date object"><![CDATA[Ein Wert wird benötigt, damit dies ein valides Datum ist]]></translation>
+      <translation phrase="weekly"><![CDATA[wöchentlich]]></translation>
+      <translation phrase="What is Morning Paper?"><![CDATA[Was ist die Morgenzeitung?]]></translation>
+      <translation phrase="WinCache is installed and opcode caching is enabled"><![CDATA[WinCache ist installiert und Opcode Caching ist aktiviert]]></translation>
+      <translation phrase="WinCache is installed, but opcode caching is not enabled. Please set wincache.ocenabled to &quot;1&quot; in your php.ini"><![CDATA[WinCache ist installiert, Aber Opcode Caching ist deaktiviert. Bitte setzten Sie Wincache.ocenabled auf &quot;1&quot; in Ihrer php.ini]]></translation>
+      <translation phrase="When an invoice is issued, all Time and Expense records related to the invoice are automatically marked as &quot;Pending Payment&quot;. When the invoice is marked as paid, all related Time and Expense records are automatically marked as paid. When the invoice is canceled, all related records are released and automatically reverted to their original billable state"><![CDATA[Wenn eine Rechnung ausgestellt wird, werden alle Zeit- und Kosten Datensätze, die in der Rechnung eingesetzt werden, automatisch mit &quot;Ausstehende Zahlung&quot; gekennzeichnet. Wenn die Rechnung als bezahlt markiert wird, werden alle damit verbundenen Zeit- und Kostensätze werden automatisch als bezahlt markiert. Wenn die Rechnung storniert, werden alle verknüpften Datensätze freigegeben und automatisch in ihre Ausgangs abrechenbaren Zustand zurückgesetzt]]></translation>
+      <translation phrase="When records are released, the relation between the invoice and the items is removed, without deleting any records. The related records are reverted to their original billable state, while issuing, canceling or paying the invoice will not change the item status in the future"><![CDATA[Wenn Aufzeichnungen freigegeben sind, ist die Beziehung zwischen der Rechnung und dem Artikel entfernt werden, ohne ein Löschen der Aufzeichnungen. Die entsprechenden Datensätze werden in ihren ursprünglichen abrechenbaden Zustand zurückgesetzt, während der Ausgabe, Stornierung oder Zahlung der Rechnung wird nicht der Einzelstatus in der Zukunft ändern]]></translation>
+      <translation phrase="You are running PHP :version"><![CDATA[Sie nutzen die PHP Verion :version]]></translation>
+      <translation phrase="You should use PHP 5.4.0 or later"><![CDATA[Sie sollten die PHP Version 5.4.0 oder größer nutzen]]></translation>
+      <translation phrase="yearly"><![CDATA[jählrich]]></translation>
+      <translation phrase="You have imported all data from this Basecamp account"><![CDATA[Sie haben alle Daten von diesem Basecamp Zugang importiert]]></translation>
+      <translation phrase="Yes, share can add events"><![CDATA[Ja, geteilte können Ereignisse hinzufügen]]></translation>
+      <translation phrase="You have the current application version"><![CDATA[Sie haben die aktuelle Version der Anwndung]]></translation>
+      <translation phrase="You have the current and the previous application version backed up"><![CDATA[Sie haben die aktuelle Version der Anwndung und die vorhergehende wurde gesichert]]></translation>
+      <translation phrase="You have :num old application versions"><![CDATA[Sie haben folgende Anzhal alte Versionen der Anwendung :num]]></translation>
+      <translation phrase="You are using the file system for data caching. This is the slowest cache backend"><![CDATA[Sie nutzen das Dateisystem als Daten Cache. Dies ist die langsamste Version des Caches, die Sie nutzen können]]></translation>
+      <translation phrase="You are using memory cache for data caching (:backend_name backend)"><![CDATA[Sie nutzen Speicher Cache für den Daten Cache (:backend_name backend)]]></translation>
+      <translation phrase=":author mentioned you"><![CDATA[:author hat Sie erwähnt]]></translation>
+      <translation phrase=":author_name mentioned you in a comment on &quot;:parent_name&quot; :parent_type"><![CDATA[:author_name  hat Sie in einem Kommentar erwähnt in &quot;:parent_name&quot; :parent_type]]></translation>
+      <translation phrase=" Importing..."><![CDATA[Importieren...]]></translation>
+      <translation phrase=" Checking..."><![CDATA[Prüfen...]]></translation>
+      <translation phrase=" Imported"><![CDATA[IMportiert]]></translation>
+      <translation phrase=" Can\"><![CDATA[Kann\]]></translation>
+      <translation phrase=":num Days Late"><![CDATA[:num Tage verspätet]]></translation>
+      <translation phrase=":user_name has been successfully removed from Morning Paper list"><![CDATA[:user_name wurde erfolgreich von der Liste der Morgenzeitungsempfänger entfernt]]></translation>
+      <translation phrase=":user_name has been successfully added to Morning Paper list"><![CDATA[:user_name wurde erfolgreich von der Liste der Morgenzeitungsempfänger hinugefügt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in a comment on &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; :parent_type"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einem Kommentar in &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; :parent_type erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; discussion"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einer neuen Diskussion &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; document"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einem neuen Dokument &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; document"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat ein neues Dokuemnt &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erstellt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; notebook"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einem neuen Notizbuch &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; notebook"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat ein neues Notizbuch &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; angelegt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; notebook page"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einer neuen Notizbuchseite &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; notebook page"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat eineneue Notizbuchseite &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erstellt]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; style=&quot;:link_style&quot;&gt;:name&lt;/a&gt; completed by :action_by"><![CDATA[&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; abgeschlossen von :action_by]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; style=&quot;:link_style&quot;&gt;:name&lt;/a&gt; completed by :action_by in &lt;a href=&quot;:task_permalink&quot; style=&quot;:link_style&quot;&gt;:task_name&lt;/a&gt; task (#:task_id)"><![CDATA[&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; abgeschlossen von :action_by in &lt;a href=&quot;:task_permalink&quot;&gt;:task_name&lt;/a&gt; der Aufgabe (#:task_id)]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; style=&quot;:link_style&quot;&gt;:name&lt;/a&gt; started by :action_by"><![CDATA[&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; erstellt von :action_by]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; style=&quot;:link_style&quot;&gt;:name&lt;/a&gt; uploaded by :action_by"><![CDATA[&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; hochgeladen von :action_by]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; milestone"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einem neuen Meilenstein &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; milestone"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hate einen neuen Meilenstein &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erstellt]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; task"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einer neuen Aufgabe &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
     </translations>
   </language>
