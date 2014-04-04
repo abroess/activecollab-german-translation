@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.5]]></ac_version>
+    <ac_version><![CDATA[4.2.7]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -136,7 +136,7 @@
       <translation phrase="Select Projects"><![CDATA[Wählen Sie Projekte]]></translation>
       <translation phrase="Start On"><![CDATA[Starten am]]></translation>
       <translation phrase="Selected Types ..."><![CDATA[Ausgewählte Typen ...]]></translation>
-      <translation phrase="Send"><![CDATA[Gesendet]]></translation>
+      <translation phrase="Send"><![CDATA[Senden]]></translation>
       <translation phrase="Never"><![CDATA[Niemals]]></translation>
       <translation phrase="Overdue"><![CDATA[Überfällig]]></translation>
       <translation phrase="is online now"><![CDATA[ist online jetzt]]></translation>
@@ -851,7 +851,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Completed This Month"><![CDATA[Diesen Monate erledigt]]></translation>
       <translation phrase="Completed by"><![CDATA[Erledigt von]]></translation>
       <translation phrase="Completed on"><![CDATA[Erledigt am]]></translation>
-      <translation phrase="Login As"><![CDATA[einloggen als]]></translation>
       <translation phrase="List is Empty"><![CDATA[die Liste ist leer]]></translation>
       <translation phrase="Category not Set"><![CDATA[Kategorie nicht gesetzt]]></translation>
       <translation phrase="Change Category"><![CDATA[Kategorie ändern]]></translation>
@@ -1848,7 +1847,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="List My Subscriptions"><![CDATA[Meine Abonnements anzeigen]]></translation>
       <translation phrase="Localization"><![CDATA[Lokalisierung]]></translation>
       <translation phrase="Last Seen"><![CDATA[Zuletzt gesehen]]></translation>
-      <translation phrase="Login As :user_display_name"><![CDATA[Eingeloggt als :user_display_name]]></translation>
       <translation phrase="Latest"><![CDATA[Neueste]]></translation>
       <translation phrase="Lost quotes"><![CDATA[abgelehnte Angebote]]></translation>
       <translation phrase="Logo should be PNG or JPEG image"><![CDATA[Logo muss eine PNG oder JPEG Grafik sein]]></translation>
@@ -2473,7 +2471,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="One billable hour submitted to &quot;:target_name&quot; :target_type_lowercase"><![CDATA[Eine abrechnungsfähige Stunde übermittelt in &quot;:target_name&quot; :target_type_lowercase]]></translation>
       <translation phrase="One non billable hour submitted to &quot;:target_name&quot; :target_type_lowercase"><![CDATA[Eine abrechnungsfähige Stunde übermittelt in &quot;:target_name&quot; :target_type_lowercase]]></translation>
       <translation phrase="On / By"><![CDATA[an / von]]></translation>
-      <translation phrase="One click login as :user_display_name"><![CDATA[Ein Klick-Anmeldung als :user_display_name]]></translation>
       <translation phrase="One of our staff members will answer your inquiry soon."><![CDATA[Einer unserer Mitarbeiter wird Ihre Anfrage schnell beantworten.]]></translation>
       <translation phrase="Payment Received"><![CDATA[Zahlung erhalten]]></translation>
       <translation phrase="Port is required"><![CDATA[Port ist notwendig]]></translation>
@@ -4323,7 +4320,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Supported currencies"><![CDATA[Unterstütze Währungen]]></translation>
       <translation phrase="Mark as Paid"><![CDATA[Markieren als bezahlt]]></translation>
       <translation phrase="Invoice has been marked as paid"><![CDATA[Die Rechnung wurde als bezahlt markiert]]></translation>
-      <translation phrase="Invoice No. needs to be unique"><![CDATA[Die Rechnungsnummer muss eindeutig sein]]></translation>
       <translation phrase="Include Credit Invoices"><![CDATA[Inklusive Guthaben Rechnungen]]></translation>
       <translation phrase="Include invoices with either a zero or a negative amount in your report."><![CDATA[Inklusive der Rechnungen mit eine Null oder negativen Summe in Ihrem Bericht.]]></translation>
       <translation phrase="Activity Filter"><![CDATA[Aktivitäten Filter]]></translation>
@@ -5758,5 +5754,23 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; milestone"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einem neuen Meilenstein &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; milestone"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hate einen neuen Meilenstein &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erstellt]]></translation>
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; mentioned you in the new &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; task"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat Sie in einer neuen Aufgabe &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; erwähnt]]></translation>
+      <translation phrase="Stop receiving these notifications"><![CDATA[Stoppen Sie den Empfang dieser Nachrichten]]></translation>
+      <translation phrase="A Specific Date Range"><![CDATA[Eine bestimmte Zeitspanne]]></translation>
+      <translation phrase="Current Week"><![CDATA[Aktuelle Woche]]></translation>
+      <translation phrase="Current Week + Previous Week"><![CDATA[Aktuelle und vorherige Woche]]></translation>
+      <translation phrase="Current Month"><![CDATA[Aktueller Monat]]></translation>
+      <translation phrase="Current Month + Previous 2 Months"><![CDATA[Aktueller und 2 vorherige Monate]]></translation>
+      <translation phrase="Current Month + Previous 11 Months"><![CDATA[Aktueller und 11 vorherige Monate]]></translation>
+      <translation phrase="Enable Leader Board"><![CDATA[Leader Board aktivieren]]></translation>
+      <translation phrase="Leader Board Period"><![CDATA[Leader Board Zeitspanne]]></translation>
+      <translation phrase="Leader Board Settings"><![CDATA[Leader Board Einstellungen]]></translation>
+      <translation phrase="Leader Board Companies"><![CDATA[Leader Board Firmen]]></translation>
+      <translation phrase="Leader Board for :start_date to :end_date"><![CDATA[Leader Board von :start_date bis :end_date]]></translation>
+      <translation phrase="What period do you want to consider for calculating Leader Board scores?"><![CDATA[Welchen Zeitraum möchten Sie für die Berechnung des Leader Board berücksichtigen?]]></translation>
+      <translation phrase="Invoice #:invoice_id needs to be unique"><![CDATA[Rechnung #:invoice_id muss einmalig sein]]></translation>
+      <translation phrase="Log in As"><![CDATA[Anmelden als]]></translation>
+      <translation phrase="Log in As :user_display_name"><![CDATA[Anmelden als :user_display_name]]></translation>
+      <translation phrase="Milestones based on Quote Items"><![CDATA[Meilensteine auf Basis der Angebotspositionen]]></translation>
+      <translation phrase="One click log in as :user_display_name"><![CDATA[Ein-Klick Anmeldung als :user_display_name]]></translation>
     </translations>
   </language>
