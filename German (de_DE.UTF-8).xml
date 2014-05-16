@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.7]]></ac_version>
+    <ac_version><![CDATA[4.2.8]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -1635,8 +1635,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Bookmark URL"><![CDATA[Lesezeichen URL]]></translation>
       <translation phrase="Based On"><![CDATA[Basierend auf]]></translation>
       <translation phrase="By &lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; on :when"><![CDATA[Von &lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; am :when]]></translation>
-      <translation phrase="By &lt;span class=&quot;comment_author&quot; &gt;:author_name&lt;/span&gt; on &lt;span class=&quot;comment_date&quot;&gt;:on&lt;/span&gt;"><![CDATA[Von &lt;span class=&quot;comment_author&quot;&gt;:author_name&lt;/span&gt; am &lt;span class=&quot;comment_date&quot;&gt;:on&lt;/span&gt;]]></translation>
-      <translation phrase="By &lt;a class=&quot;comment_author&quot; href=&quot;:author_url&quot;&gt;:author_name&lt;/a&gt; on &lt;span class=&quot;comment_date&quot;&gt;:on&lt;/span&gt;"><![CDATA[Von &lt;a class=&quot;comment_author&quot; href=&quot;:author_url&quot;&gt;:author_name&lt;/a&gt; am &lt;span class=&quot;comment_date&quot;&gt;:on&lt;/span&gt;]]></translation>
       <translation phrase="Biweekly"><![CDATA[Alle 2 Wochen]]></translation>
       <translation phrase="Bimonthly"><![CDATA[Alle 2 Monate]]></translation>
       <translation phrase="Background image should be PNG or JPEG image"><![CDATA[Hintergrundbild sollte ein PNG oder JPEG sein]]></translation>
@@ -2482,7 +2480,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Please insert new category name"><![CDATA[Bitte geben Sie den Namen für die neue Kategorie ein]]></translation>
       <translation phrase="Project Labels"><![CDATA[Projekt Etiketten]]></translation>
       <translation phrase="Preview Code"><![CDATA[Voransicht Code]]></translation>
-      <translation phrase="Payment has been processed"><![CDATA[Zahlung wurde durchgeführt]]></translation>
       <translation phrase="Payment has been canceled."><![CDATA[Zahlung wurde abgebrochen.]]></translation>
       <translation phrase="Payment Settings"><![CDATA[Zahlungs- Einstellungen]]></translation>
       <translation phrase="Payments are disabled"><![CDATA[Zahlung sind deaktiviert]]></translation>
@@ -3112,7 +3109,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="You don't have permission to move this :object_name to trash"><![CDATA[Sie haben keine Berechtigung um :object_name in den Papierkorb zu verschieben]]></translation>
       <translation phrase="You don't have any assignments in this project"><![CDATA[Sie haben keine Zuordnungen in diesem Projekt]]></translation>
       <translation phrase="You can drag items to reorder them or you can perform actions on multiple items."><![CDATA[Sie können Elemente ziehen um diese neu zu sortieren oder Sie können Aktionen auf mehrere Elemente anwenden]]></translation>
-      <translation phrase="You will also receive a confirmation email with details of how to track the progress of your enquiry. If you do not receive this email please check your junk mail folder."><![CDATA[Darüber hinaus erhalten Sie eine Bestätigungsmail mit Einzelheiten, wie Sie den Fortschritt Ihrer Anfrage verfolgen können. Wenn Sie diese nicht erhalten, überprüfen Sie bitte Ihre E-Mail-Spam-Ordner.]]></translation>
       <translation phrase="You are about to move :type &quot;&lt;b&gt;:name&lt;/b&gt;&quot; from &quot;&lt;b&gt;:notebook_name&lt;/b&gt;&quot; notebook. Please select a destination notebook"><![CDATA[Sie sind dabei :type &quot;&lt;b&gt;:name&lt;/b&gt;&quot; aus dem Notizbuch &quot;&lt;b&gt;:notebook_name&amp;lt;&lt;/b&gt;&quot; zu verschieben. Bitte wählen Sie eine Ziel Notizbuch]]></translation>
       <translation phrase="You will also receive a confirmation email with further details. If you do not receive this email please check your junk mail folder."><![CDATA[Darüber hinaus erhalten Sie eine Bestätigungsmail mit weiteren Einzelheiten. Wenn Sie diese nicht erhalten, überprüfen Sie bitte Ihre E-Mail-Spam-Ordner.]]></translation>
       <translation phrase="September"><![CDATA[September]]></translation>
@@ -4350,7 +4346,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="versions"><![CDATA[Versionen]]></translation>
       <translation phrase="&gt; 90 days"><![CDATA[&amp;gt; 90 Tage]]></translation>
       <translation phrase=":count old Activecollab version deleted"><![CDATA[:count alte activecollab Versionen gelöscht]]></translation>
-      <translation phrase="0 old Activecollab version deleted"><![CDATA[0 alte activecollab Versionen gelöshct]]></translation>
+      <translation phrase="0 old Activecollab version deleted"><![CDATA[0 alte activecollab Versionen gelöscht]]></translation>
       <translation phrase="&quot;/activecollab&quot; folder is not writeable. Give 0777 permission to delete old activecollab version."><![CDATA[&quot;/activecollab&quot; Ordner ist nicht beschreibbar. Geben Sie das Recht 0777 um alte activeCollab Versionen zu löschen]]></translation>
       <translation phrase="activeCollab version"><![CDATA[activeCollab Version]]></translation>
       <translation phrase="Archived Recurring Profiles"><![CDATA[Archivierte Wiederkehrende Profile]]></translation>
@@ -4428,13 +4424,13 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Add Position"><![CDATA[Position hinzufügen]]></translation>
       <translation phrase="Attached Files"><![CDATA[Dateien Anhängen]]></translation>
       <translation phrase="Add elements to this project by sending an email to &lt;br/&gt;&lt;a href=&quot;mailto::mail_to_project_email&quot;&gt;:mail_to_project_text&lt;/a&gt;"><![CDATA[Elemente zu diesem Projekt hinzufügen durch senden einer E-Mail an &lt;br /&gt;&lt;a href=&quot;mailto::mail_to_project_email&quot;&gt;:mail_to_project_text&lt;/a&gt;]]></translation>
-      <translation phrase="Auto Update"><![CDATA[Automomatisches Update]]></translation>
-      <translation phrase="Auto Update Settings"><![CDATA[Automomatisches Update Einstellungen]]></translation>
-      <translation phrase="Apps Magnet Auto Update Settings"><![CDATA[Apps Magnet Automomatisches Update Einstellungen]]></translation>
-      <translation phrase="Apps Magnet Auto Update"><![CDATA[Apps Magnet Automomatisches Update]]></translation>
-      <translation phrase="Apps Magnet Auto Updater"><![CDATA[Apps Magnet Automomatischer Updater]]></translation>
-      <translation phrase="auto update"><![CDATA[Automomatisches Update]]></translation>
-      <translation phrase="Am Auto Updater"><![CDATA[Ein automomatischer Updater]]></translation>
+      <translation phrase="Auto Update"><![CDATA[Automatisches Update]]></translation>
+      <translation phrase="Auto Update Settings"><![CDATA[Automatisches Update Einstellungen]]></translation>
+      <translation phrase="Apps Magnet Auto Update Settings"><![CDATA[Apps Magnet Automatisches Update Einstellungen]]></translation>
+      <translation phrase="Apps Magnet Auto Update"><![CDATA[Apps Magnet Automatisches Update]]></translation>
+      <translation phrase="Apps Magnet Auto Updater"><![CDATA[Apps Magnet Automatischer Updater]]></translation>
+      <translation phrase="auto update"><![CDATA[Automatisches Update]]></translation>
+      <translation phrase="Am Auto Updater"><![CDATA[Ein automatischer Updater]]></translation>
       <translation phrase="Are you sure that you want to delete this label?"><![CDATA[Sind Sie sicher, dass Sie dieses Etikett löschen möchten?]]></translation>
       <translation phrase="Are you sure you want to delete this :object_type"><![CDATA[Sind Sie sicher, dass Sie :object_type löschen möchten?]]></translation>
       <translation phrase="All files attached to this message will be imported as individual files under Files tab. Text that you provide in email body will be set as description for all of the files"><![CDATA[Alle Dateien, die an dieser Nachricht angehängt sind, werden als individuelle Dateien importiert und im Reiter Dateien sichtbar sein. Texte, die mitgesandt werden, werden als Beschreibung für die Dateien eingesetzt]]></translation>
@@ -4838,7 +4834,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; commented on &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; Support Ticket"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat das Support Ticket &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; kommentiert]]></translation>
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created a &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; Support Ticket"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat ein Support Ticket &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; angelegt]]></translation>
       <translation phrase="Are you sure that you want to permanently delete this project?"><![CDATA[Sind Sie sicher, dass Sie das Projekt permanent löschen möchten?]]></translation>
-      <translation phrase="Add People to Project"><![CDATA[Fügt Personen zu einem Projekt hinzu]]></translation>
+      <translation phrase="Add People to Project"><![CDATA[Fügt Personen dem Projekt hinzu]]></translation>
       <translation phrase="Bug"><![CDATA[Fehler]]></translation>
       <translation phrase="Change Language"><![CDATA[Wechsele Sprache]]></translation>
       <translation phrase="Event"><![CDATA[Ereignis]]></translation>
@@ -5670,7 +5666,6 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="our team and subcontractors"><![CDATA[Unser Team und Subunternehmer]]></translation>
       <translation phrase="Our Comment (Private, Not Visible to the Client)"><![CDATA[Unsere Kommentare (Privat, nicht für den Kunden ersichtlich)]]></translation>
       <translation phrase="Opcache extension is installed and enabled"><![CDATA[Opcache Erweiterung ist installiert und aktiviert]]></translation>
-      <translation phrase="Opcode cache extension (Opcache, APC or WinCache) is not installed. Usage of opcode caching is curcial for good PHP performance"><![CDATA[Opcode Cache Erweiterung (Opcache, APC oder WinCache) ist nicht installiert. Die Nutzung von Opcode Caching ist entscheidend für eine gute PHP Performance]]></translation>
       <translation phrase="Potential performance issues found"><![CDATA[Potentielle Performance Probleme gefunden]]></translation>
       <translation phrase="Performance Checklist"><![CDATA[Performance Checkliste]]></translation>
       <translation phrase="Please enable &quot;CHECK_FOR_NEW_VERSION&quot; in your config.php file"><![CDATA[Bitte aktivieren Sie &quot;CHECK_FOR_NEW_VERSION&quot; in Ihrer config.php Datei]]></translation>
@@ -5772,5 +5767,31 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Log in As :user_display_name"><![CDATA[Anmelden als :user_display_name]]></translation>
       <translation phrase="Milestones based on Quote Items"><![CDATA[Meilensteine auf Basis der Angebotspositionen]]></translation>
       <translation phrase="One click log in as :user_display_name"><![CDATA[Ein-Klick Anmeldung als :user_display_name]]></translation>
+      <translation phrase="Add Subtask to the Task"><![CDATA[Fügen Sie eine Teilaufgabe zu der Aufgabe hinzu]]></translation>
+      <translation phrase="Add Subtask to the :name Project"><![CDATA[Fügen Sie eine Teilaufgabe zu dem Projekt :name hinzu]]></translation>
+      <translation phrase="Quick Add Plus"><![CDATA[Quick Add Plus]]></translation>
+      <translation phrase="Quick Add screen enhancements. Add SubTasks or track time or track expense for specific Task, not just a project."><![CDATA[Quick Add ist eine Screen-Erweiterung. Fügen Sie Teilaufgaben oder Zeit- oder Kosteneinträge zu bestimmten Aufgaben hinzu, nicht nur für ein Projekt.]]></translation>
+      <translation phrase="Select task type"><![CDATA[Wählen Sie den Aufgabentyp]]></translation>
+      <translation phrase="Select Parent"><![CDATA[Wählen Sie das Elternelement]]></translation>
+      <translation phrase="Selected type of tasks will be available in select parent dropdown while adding subtask, time entry &amp; expense"><![CDATA[Wählen Sie einen Aufgabentyp, der verfügbar ist im Drop-Down-Menü, wenn Sie Teilaufgaben oder Zeiten und Kosten erfassen]]></translation>
+      <translation phrase="There is no Task. Can not create new SubTask."><![CDATA[Es existiert keine Aufgabe. Daher können Sie auch keine Teilaufgabe anlegen.]]></translation>
+      <translation phrase="Create Support Ticket"><![CDATA[Erstellen Sie ein Support Ticket]]></translation>
+      <translation phrase="Client Email"><![CDATA[Kunden E-Mail Adresse]]></translation>
+      <translation phrase="Notify Client?"><![CDATA[Kunden benachrichtigen?]]></translation>
+      <translation phrase="Created On: :created_on_date"><![CDATA[Erstellt am: :created_on_date]]></translation>
+      <translation phrase="Closed On: :closed_on_date"><![CDATA[Geschlossen am: :closed_on_date]]></translation>
+      <translation phrase="Department"><![CDATA[Abteilung]]></translation>
+      <translation phrase="Enable Multiple Assignees for Milestones and Tasks"><![CDATA[Aktivieren von mehreren Beauftragte für Meileinsteine und Aufgaben]]></translation>
+      <translation phrase="Google Calendar"><![CDATA[Google Kalender]]></translation>
+      <translation phrase="Not yet"><![CDATA[Noch nicht]]></translation>
+      <translation phrase="Opcode cache extension (Opcache, APC or WinCache) is not installed. Using opcode caching is crucial for good PHP performance"><![CDATA[Die Opcode Cache Erweiterung (Opcache, APC oder WinCache) ist nicht installiert.  Die Nutzung von Opcode Caching ist entscheidend für eine gute PHP Performance.]]></translation>
+      <translation phrase="Please enter valid client email address"><![CDATA[Bitte geben Sie eine gültige Kunden E-Mail Adresse ein]]></translation>
+      <translation phrase="Support Ticket &quot;:name&quot; has been created"><![CDATA[Support Ticket &quot;:name&quot; wurde angelegt]]></translation>
+      <translation phrase="Set this option to Yes if you want to have multiple users assigned to milestones and tasks"><![CDATA[Setzten Sie die Option auf Ja, wenn Sie mehrere Beauftragte für Meilensteine und Aufgaben haben möchten]]></translation>
+      <translation phrase="There is no filters to display"><![CDATA[Es gibt keine Filter zum Anzeigen]]></translation>
+      <translation phrase="Upgrade"><![CDATA[Upgrade]]></translation>
+      <translation phrase="Upgrade Later"><![CDATA[Upgrade später]]></translation>
+      <translation phrase="Using Google Calendar? Click on Add by URL under Other Calendars and paste this link:"><![CDATA[Nutzen Sie Google Kalender? Klicken Sie auf hinzufügen unter weitere Kalender und fügen Sie folgenden Link ein:]]></translation>
+      <translation phrase="You will also receive a confirmation email with details of how to track the progress of your inquiry. If you do not receive this email please check your junk mail folder."><![CDATA[Sie werden auch eine Bestätigungs-E-Mail mit Details erhalten, um den Fortschritt Ihrer Anfrage verfolgen. Wenn Sie diese E-Mail nicht erhalten, überprüfen Sie bitte Ihren Spam-Ordner.]]></translation>
     </translations>
   </language>
