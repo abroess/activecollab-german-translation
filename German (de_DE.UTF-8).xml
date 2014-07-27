@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.12]]></ac_version>
+    <ac_version><![CDATA[4.2.13]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -5793,5 +5793,10 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Upgrade Later"><![CDATA[Upgrade später]]></translation>
       <translation phrase="Using Google Calendar? Click on Add by URL under Other Calendars and paste this link:"><![CDATA[Nutzen Sie Google Kalender? Klicken Sie auf hinzufügen unter weitere Kalender und fügen Sie folgenden Link ein:]]></translation>
       <translation phrase="You will also receive a confirmation email with details of how to track the progress of your inquiry. If you do not receive this email please check your junk mail folder."><![CDATA[Sie werden auch eine Bestätigungs-E-Mail mit Details erhalten, um den Fortschritt Ihrer Anfrage verfolgen. Wenn Sie diese E-Mail nicht erhalten, überprüfen Sie bitte Ihren Spam-Ordner.]]></translation>
+      <translation phrase="Client Name(s) - Separate Multiple Names Using Comma(,)"><![CDATA[Kunden Name(n) - Trennen Sie mehrere Namen mit einem Komma (,)]]></translation>
+      <translation phrase="Client Email(s) - Separate Multiple Emails Using Comma(,)"><![CDATA[Kunden E-Mail Adresse(n) - Trennen Sie mehrere E-Mai Adressen mit einem Komma (,)]]></translation>
+      <translation phrase="Label of a :type &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; in &lt;a href=&quot;:project_url&quot; &gt;:project_name&lt;/a&gt; project is change from &lt;b&gt;:from&lt;/b&gt; to &lt;b&gt;:to&lt;/b&gt;"><![CDATA[Etikett von :type &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; im Projekt &lt;a href=&quot;:project_url&quot;&gt;:project_name&lt;/a&gt; wurde geändert von &lt;b&gt;:from&lt;/b&gt; in &lt;b&gt;:to&lt;/b&gt;]]></translation>
+      <translation phrase="Re"><![CDATA[Anw]]></translation>
+      <translation phrase="This/Previous"><![CDATA[Dieses/Vorheriges]]></translation>
     </translations>
   </language>
