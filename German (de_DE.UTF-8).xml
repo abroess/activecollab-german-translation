@@ -5798,5 +5798,37 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Label of a :type &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; in &lt;a href=&quot;:project_url&quot; &gt;:project_name&lt;/a&gt; project is change from &lt;b&gt;:from&lt;/b&gt; to &lt;b&gt;:to&lt;/b&gt;"><![CDATA[Etikett von :type &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; im Projekt &lt;a href=&quot;:project_url&quot;&gt;:project_name&lt;/a&gt; wurde geändert von &lt;b&gt;:from&lt;/b&gt; in &lt;b&gt;:to&lt;/b&gt;]]></translation>
       <translation phrase="Re"><![CDATA[Anw]]></translation>
       <translation phrase="This/Previous"><![CDATA[Dieses/Vorheriges]]></translation>
+      <translation phrase="Add New Message"><![CDATA[Nachricht hinzfügen]]></translation>
+      <translation phrase="Add a new widget from here. RSS / Remote Content / Messages / Text etc will be under Widgets Plus group."><![CDATA[Ein neues Widget hinzufügen. RSS / Entfernter Inhalt / Nachrichten / Text etc. sind unter der Widgets Plus Gruppe.]]></translation>
+      <translation phrase="Configure Widgets"><![CDATA[Widgets konfigurieren]]></translation>
+      <translation phrase="Click on a home screen name to configure it."><![CDATA[Klicken Sie auf einen Startseiten Namen um diesen zu konfigurieren]]></translation>
+      <translation phrase="Could not save messages"><![CDATA[Kann Nachricht nicht speichern]]></translation>
+      <translation phrase="Configure messages shown in the Message of the Day widget below."><![CDATA[Konfigurieren Sie die Nachrichten, die im Widget Nachricht des Tages angezeigt werden.]]></translation>
+      <translation phrase="Enter Remote URL"><![CDATA[Geben sie die entferne URL an]]></translation>
+      <translation phrase="Enter Title"><![CDATA[Geben Sie einen Titel an]]></translation>
+      <translation phrase="Export to CSV"><![CDATA[Export nach CSV]]></translation>
+      <translation phrase="Go to &quot;Home Screens&quot; within Administration."><![CDATA[Gehen Sie zu &quot;Startseiten&quot; in der Administration]]></translation>
+      <translation phrase="Import / Export Messages"><![CDATA[Import / Export Nachrichten]]></translation>
+      <translation phrase="Import from CSV"><![CDATA[Import von CSV]]></translation>
+      <translation phrase="Import Messages"><![CDATA[Import von Nachrichten]]></translation>
+      <translation phrase="Manage Messages"><![CDATA[Nachrichten verwalten]]></translation>
+      <translation phrase="Message Of The Day"><![CDATA[Nachricht des Tages]]></translation>
+      <translation phrase="Messages saved"><![CDATA[Nachricht gespeichert]]></translation>
+      <translation phrase="Put your homescreen to use with awesome widgets"><![CDATA[Reichern Sie Ihre Startseite mit einigen tollen Widgets an]]></translation>
+      <translation phrase="RSS Feed URL"><![CDATA[RSS Feed URL]]></translation>
+      <translation phrase="Remove All Messages"><![CDATA[Alle Nachrichten entfernen]]></translation>
+      <translation phrase="Remote Content"><![CDATA[Entfernter Inhalt]]></translation>
+      <translation phrase="Select message type"><![CDATA[Wählen Sie den Nachrichten Typ]]></translation>
+      <translation phrase="Save All Changes"><![CDATA[Alle Änderungen speichern]]></translation>
+      <translation phrase="Shows any Text or HTML content"><![CDATA[Zeigt beliebigen Text oder HTML Inhalt]]></translation>
+      <translation phrase="Show articles from an RSS feed"><![CDATA[Zeigt Artikel aus einem RSS Feed]]></translation>
+      <translation phrase="Show any webpage in an iframe"><![CDATA[Zeigte eine Webseite in einem iFrame]]></translation>
+      <translation phrase="Show a sticky note on your homescreen"><![CDATA[Zeigt eine Haftnotiz auf Ihrer Startseite]]></translation>
+      <translation phrase="Show a random message to users - e.g. tips, inspirational quotes"><![CDATA[Zeigte eine Zufallsnachricht für die Benutzer an - z.B. Tipps, Inspirationen]]></translation>
+      <translation phrase="Text / HTML"><![CDATA[Text / HTML]]></translation>
+      <translation phrase="Widget Plus"><![CDATA[Widget Plus]]></translation>
+      <translation phrase="Widget Plus Messages"><![CDATA[Widget Plus Nachrichten]]></translation>
+      <translation phrase="Widgets Plus"><![CDATA[Widgets Plus]]></translation>
+      <translation phrase="You can also add a new home screen tab - and select Full Width or Two Column layout added by Widgets Plus."><![CDATA[Sie können auch einen neuen Startseiten Tab hinzufügen und außerdem auswählen ob die volle breite oder 2 Spalten als Layout angezeigt werden sollen.]]></translation>
     </translations>
   </language>

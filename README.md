@@ -18,3 +18,4 @@ Following modules of Apps Magnet are included in this translation:
 - Smart Backup
 - Housekeeping
 - Lightbox
+- Widgets Plus
