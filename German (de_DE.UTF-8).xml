@@ -4834,7 +4834,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; commented on &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; Support Ticket"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat das Support Ticket &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; kommentiert]]></translation>
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; created a &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; Support Ticket"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat ein Support Ticket &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; angelegt]]></translation>
       <translation phrase="Are you sure that you want to permanently delete this project?"><![CDATA[Sind Sie sicher, dass Sie das Projekt permanent löschen möchten?]]></translation>
-      <translation phrase="Add People to Project"><![CDATA[Fügt Personen dem Projekt hinzu]]></translation>
+      <translation phrase="Add People to Project"><![CDATA[Person hinzufügen]]></translation>
       <translation phrase="Bug"><![CDATA[Fehler]]></translation>
       <translation phrase="Change Language"><![CDATA[Wechsele Sprache]]></translation>
       <translation phrase="Event"><![CDATA[Ereignis]]></translation>
