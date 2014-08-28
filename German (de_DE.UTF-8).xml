@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.13]]></ac_version>
+    <ac_version><![CDATA[4.2.14]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -141,9 +141,9 @@
       <translation phrase="Overdue"><![CDATA[Überfällig]]></translation>
       <translation phrase="is online now"><![CDATA[ist online jetzt]]></translation>
       <translation phrase="is due"><![CDATA[ist fällig]]></translation>
-      <translation phrase="Notifications Plus"><![CDATA[Benachrichtigungen Plus]]></translation>
+      <translation phrase="Notifications Plus"><![CDATA[Mitteilungen Plus]]></translation>
       <translation phrase="Notifications"><![CDATA[Benachrichtigungen]]></translation>
-      <translation phrase="No advance notification"><![CDATA[Keine erweiterten Benachrichtigungen]]></translation>
+      <translation phrase="No advance notification"><![CDATA[Keine erweiterten Mitteilungen]]></translation>
       <translation phrase="Notify only Assignees from Owner Company"><![CDATA[Benachrichtige nur Beauftragte vom Besitzer Unternehmen]]></translation>
       <translation phrase="Notify only Responsible assignee"><![CDATA[Benachrichtige nur verantwortlich Beauftragte]]></translation>
       <translation phrase="Send notification on the due date"><![CDATA[Sende Benachrichtigungen am Fälligkeitstag]]></translation>
@@ -745,7 +745,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="New Project Request"><![CDATA[neue Projektanfrage]]></translation>
       <translation phrase="No projects"><![CDATA[keine Projekte]]></translation>
       <translation phrase="No Access"><![CDATA[kein Zugriff]]></translation>
-      <translation phrase="Notify Users"><![CDATA[Benutzer benachrichtigen]]></translation>
+      <translation phrase="Notify Users"><![CDATA[Benutzer unterrichten]]></translation>
       <translation phrase="Next Week"><![CDATA[nächste Woche]]></translation>
       <translation phrase="Next Month"><![CDATA[nächster Monat]]></translation>
       <translation phrase="New Page"><![CDATA[Neue Seite]]></translation>
@@ -2334,10 +2334,10 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="No filter applied over incoming mail. No match."><![CDATA[Kein Filter wurde für eingehende Email angewendet. Keine Übereinstimmung]]></translation>
       <translation phrase="Native Mailer Options"><![CDATA[Nativer Mailer Optionen]]></translation>
       <translation phrase="Native"><![CDATA[Native]]></translation>
-      <translation phrase="Notification and email system is working, but does not send any messages. This mode is great for testing"><![CDATA[Benachrichtigungs und Email System funktioniert, aber versendet keine Nachrichten. Dieses Modul ist sehr gut zum Testen geeignet]]></translation>
+      <translation phrase="Notification and email system is working, but does not send any messages. This mode is great for testing"><![CDATA[Mitteilungs und Email System funktioniert, aber versendet keine Nachrichten. Dieses Modul ist sehr gut zum Testen geeignet]]></translation>
       <translation phrase="Native PHP mailing. PHP needs to be properly configured so system can send messages using &lt;a href=&quot;http://www.php.net/mail&quot; target=&quot;_blank&quot;&gt;mail()&lt;/a&gt; function"><![CDATA[Nativer PHP mailing. PHP muss richtig konfiguriert sein, damit das System Nachrichten über die &lt;a href=&quot;http://www.php.net/mail&quot; target=&quot;_blank&quot;&gt;mail()&lt;/a&gt; Funktion versenden kann]]></translation>
-      <translation phrase="Notify sender about :object_name being created"><![CDATA[informiere Absender darüber, dass :object_name angelegt wurde]]></translation>
-      <translation phrase="Notify user about :object_name being created in his name"><![CDATA[informiere Absender darüber, dass :object_name in seinem Namen angelegt wurde]]></translation>
+      <translation phrase="Notify sender about :object_name being created"><![CDATA[Melde Absender, dass :object_name angelegt wurde]]></translation>
+      <translation phrase="Notify user about :object_name being created in his name"><![CDATA[Melde Absender, dass :object_name in seinem Namen angelegt wurde]]></translation>
       <translation phrase="No additional options available"><![CDATA[Keine zusätzlichen Optionen verfügbar]]></translation>
       <translation phrase="No description provided"><![CDATA[Keine Beschreibung angegeben]]></translation>
       <translation phrase="No Due Date"><![CDATA[Kein Enddatum]]></translation>
@@ -2347,7 +2347,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="New Reminder"><![CDATA[Neue Erinnerung]]></translation>
       <translation phrase="Not finding what you are looking for? Try &lt;a href=&quot;:url&quot;&gt;advanced search&lt;/a&gt;."><![CDATA[Nicht gefunden, was Sie suchen? Versuchen Sie die &lt;a href=&quot;:url&quot;&gt;erweiterte Suche&lt;/a&gt;.]]></translation>
       <translation phrase="New Discussion"><![CDATA[Neue Diskussion]]></translation>
-      <translation phrase="Notify People"><![CDATA[Personen benachrichtigen]]></translation>
+      <translation phrase="Notify People"><![CDATA[Personen unterrichten]]></translation>
       <translation phrase="No archived Discussions"><![CDATA[Keine archivierten Diskussionen]]></translation>
       <translation phrase="New Text Document"><![CDATA[Neues Text Dokument]]></translation>
       <translation phrase="New Asset"><![CDATA[Neue Anlage]]></translation>
@@ -2414,7 +2414,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="No valid contacts were found."><![CDATA[Keine gültigen Kontakte gefunden]]></translation>
       <translation phrase="New project"><![CDATA[Neues Projekt]]></translation>
       <translation phrase="New Todo List"><![CDATA[Neue Aufgabenliste]]></translation>
-      <translation phrase="Notify Users About this Change"><![CDATA[Benachrichtigen Sie die Benutzer über die Änderung]]></translation>
+      <translation phrase="Notify Users About this Change"><![CDATA[Unterrichten Sie die Benutzer über die Änderung]]></translation>
       <translation phrase="New Avatar"><![CDATA[Neuer Avatar]]></translation>
       <translation phrase="No active projects"><![CDATA[Keine aktiven Projekte]]></translation>
       <translation phrase="No assignments to show"><![CDATA[Keine Zuordnungen zum anzeigen]]></translation>
@@ -2426,7 +2426,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="No Delegate"><![CDATA[Keine Delegierung]]></translation>
       <translation phrase="New Form"><![CDATA[Neues Formular]]></translation>
       <translation phrase="Not Delegated"><![CDATA[nicht deligiert]]></translation>
-      <translation phrase="Notify Author on Tasks Updates"><![CDATA[Benachrichtigen Sie den Autor der Aufgabe über die Aktualisierung]]></translation>
+      <translation phrase="Notify Author on Tasks Updates"><![CDATA[Unterrichten Sie den Autor der Aufgabe über die Aktualisierung]]></translation>
       <translation phrase="New Todo list"><![CDATA[Neue Aufgabenliste]]></translation>
       <translation phrase="New Expense Category"><![CDATA[Neue Aufwands-Kategorie]]></translation>
       <translation phrase="New Job Type"><![CDATA[Neuer Job Typ]]></translation>
@@ -3312,7 +3312,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Mailbox Disabled"><![CDATA[Mailbox deaktiviert]]></translation>
       <translation phrase="Mailbox not Checked"><![CDATA[Mailbox nicht geprüft]]></translation>
       <translation phrase="Mailbox :mailbox_name has not been checked and emails aren't imported from this mailbox"><![CDATA[Mailbox :mailbox_name wurde nicht geprüft und keine E-mails wurden von dieser Mailbox importiert]]></translation>
-      <translation phrase="Notification"><![CDATA[Benachrichtigung]]></translation>
+      <translation phrase="Notification"><![CDATA[Mitteilung]]></translation>
       <translation phrase="New :type has been Created"><![CDATA[Neue(r) :type wurde angelegt]]></translation>
       <translation phrase="New!"><![CDATA[Neu!]]></translation>
       <translation phrase="New Version of ':object_name' File has been Uploaded"><![CDATA[Neue Version der Datei ':object_name'  wurde hochgeladen]]></translation>
@@ -3542,10 +3542,10 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Mailbox is not enabled"><![CDATA[Mailbox ist nicht aktiviert]]></translation>
       <translation phrase="Mailbox that checks :reply_to_address address is not configured"><![CDATA[Mailbox die die Adresse :reply_to_address prüft ist nicht konfiguriert]]></translation>
       <translation phrase="New Incoming Mail Conflict"><![CDATA[Neuer eingehende Email Konflikt]]></translation>
-      <translation phrase="Notify Administrators About New Conflicts Once a Day"><![CDATA[Benachrichtigung an die Administratoren über neue Konflikte einmal am Tag]]></translation>
+      <translation phrase="Notify Administrators About New Conflicts Once a Day"><![CDATA[Mitteilung an die Administratoren über neue Konflikte einmal am Tag]]></translation>
       <translation phrase="Not Yet Installed"><![CDATA[Bislang nicht installiert]]></translation>
       <translation phrase="No conflict selected"><![CDATA[Kein Konflikt ausgewählt]]></translation>
-      <translation phrase="Notify the client about this project request"><![CDATA[Benachrichtigung an den Kunden über die Projektanfrage]]></translation>
+      <translation phrase="Notify the client about this project request"><![CDATA[Mitteilung an den Kunden über die Projektanfrage]]></translation>
       <translation phrase="One Incoming Mail Conflict"><![CDATA[Ein eingehender Email Konflikt]]></translation>
       <translation phrase="Open Assignments"><![CDATA[Zuweisungen öffnen]]></translation>
       <translation phrase="Project Section"><![CDATA[Projekt Sektion]]></translation>
@@ -3753,7 +3753,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Full Access (Administrator)"><![CDATA[Vollständiger Zugriff (Administrator)]]></translation>
       <translation phrase="Full Access (Project Manager)"><![CDATA[Vollständiger Zugriff (Projekt Manager)]]></translation>
       <translation phrase="It is due on &lt;u&gt;:due_on&lt;/u&gt;"><![CDATA[Ist fällig am &lt;u&gt;:due_on&lt;/u&gt;]]></translation>
-      <translation phrase="Notify {$active_object-&gt;getIssuedTo()-&gt;getDisplayName()} when this invoice is fully paid"><![CDATA[Benachrichtigen {$active_object-&amp;gt;getIssuedTo()-&amp;gt;getDisplayName()} wenn die Rechnung vollständig bezahlt ist]]></translation>
+      <translation phrase="Notify {$active_object-&gt;getIssuedTo()-&gt;getDisplayName()} when this invoice is fully paid"><![CDATA[Melde {$active_object-&amp;gt;getIssuedTo()-&amp;gt;getDisplayName()} wenn die Rechnung vollständig bezahlt ist]]></translation>
       <translation phrase="project"><![CDATA[Projekt]]></translation>
       <translation phrase="Sharing Settings"><![CDATA[öffentliche Benutzung Einstellungen]]></translation>
       <translation phrase="Stop Sharing"><![CDATA[öffentliche Benutzung stoppen]]></translation>
@@ -4590,16 +4590,16 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Name is required for color scheme"><![CDATA[Ein Name ist notwendig für ein Farbschema]]></translation>
       <translation phrase="Network Settings"><![CDATA[Netzwerk Einstellungen]]></translation>
       <translation phrase="New conflicts created"><![CDATA[Ein neuer Konflikt wurde angelegt]]></translation>
-      <translation phrase="Notify administrators when mailbox is disabled"><![CDATA[Benachrichtige die Administratoren, wenn eine Mailbox deaktiviert wurde]]></translation>
+      <translation phrase="Notify administrators when mailbox is disabled"><![CDATA[Melde den Administratoren, wenn eine Mailbox deaktiviert wurde]]></translation>
       <translation phrase="Never Disable Mailboxes on Successive Connection Failures"><![CDATA[Niemals eine Mailbox deaktivieren bei vielen Fehlversuchen]]></translation>
       <translation phrase="New Announcement"><![CDATA[Neue Ankündigung]]></translation>
-      <translation phrase="New Announcement Notification"><![CDATA[Neue Ankündigungs-Benachrichtigung]]></translation>
-      <translation phrase="Notify via Email Now"><![CDATA[Benachrichtige jetzt per E-Mail]]></translation>
-      <translation phrase="Notifications Center"><![CDATA[Benachrichtigungs Center]]></translation>
-      <translation phrase="Notification Settings"><![CDATA[Benachrichtigungs Einstellungen]]></translation>
-      <translation phrase="New Notifications Display"><![CDATA[Neue Benachrichtigungs Anzeuge]]></translation>
-      <translation phrase="Notification Channels"><![CDATA[Benachrichtigungs Kanäle]]></translation>
-      <translation phrase="Notifications list is empty"><![CDATA[Benachrichtigungs Liste ist leer]]></translation>
+      <translation phrase="New Announcement Notification"><![CDATA[Neue Ankündigungs-Mitteilung]]></translation>
+      <translation phrase="Notify via Email Now"><![CDATA[Melde jetzt per E-Mail]]></translation>
+      <translation phrase="Notifications Center"><![CDATA[Mitteilungs Center]]></translation>
+      <translation phrase="Notification Settings"><![CDATA[Mitteilungs Einstellungen]]></translation>
+      <translation phrase="New Notifications Display"><![CDATA[Neue Benachrichtigungs Anzeige]]></translation>
+      <translation phrase="Notification Channels"><![CDATA[Mitteilungs Kanäle]]></translation>
+      <translation phrase="Notifications list is empty"><![CDATA[Mitteilungs Liste ist leer]]></translation>
       <translation phrase="Note: Dismissed By counter will reset by updating this option"><![CDATA[Notiz: Zurückweisen per Zähler wird zurückgesetzt beim Aktualisieren dieser Option]]></translation>
       <translation phrase="No Start Date"><![CDATA[Kein Start Datum]]></translation>
       <translation phrase="No project selected"><![CDATA[Kein Projekt ausgewählt]]></translation>
@@ -4622,7 +4622,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Not Closed Yet"><![CDATA[Noch nicht geschlossen]]></translation>
       <translation phrase="No Clients with &quot;Receive and Pay Invoices&quot; permissions in :company_name company"><![CDATA[Keine Kunden mit der Berechtigung &quot;Empfang und Bezahlung Rechnungen&quot; in der Firma :company_name]]></translation>
       <translation phrase="Number of Unread Notifications in the Status Bar plus Notifications in the Lower Right Corner of the Interface"><![CDATA[Anzahl der ungelesenen Benachrichtigungen in der Status Zeile und in der unteren rechten Ecke des Interfaces]]></translation>
-      <translation phrase="Notifications are always delivered to your web browser using Notifications status bar widget (available in the lower left corner of this page). Additional notification channels, like email, can be individually enabled or disable to fit your workflow"><![CDATA[Benachrichtigungen werden immer an Ihren Web Browser gesendet mit Hilfe des Benachrichtigungs Widgets (verfügbar in der unteren linken Ecke dieser Seite). Zusätzliche Benachrichtigungs Kanäle, wie E-Mail, können individuell aktiviert oder deaktiviert werden, so wie es in Ihren Workflow passt.]]></translation>
+      <translation phrase="Notifications are always delivered to your web browser using Notifications status bar widget (available in the lower left corner of this page). Additional notification channels, like email, can be individually enabled or disable to fit your workflow"><![CDATA[Mitteilungen werden immer an Ihren Web Browser gesendet mit Hilfe des Mitteilungs Widgets (verfügbar in der unteren linken Ecke dieser Seite). Zusätzliche Mitteilungs Kanäle, wie E-Mail, können individuell aktiviert oder deaktiviert werden, so wie es in Ihren Workflow passt.]]></translation>
       <translation phrase="Outer color is required for color scheme"><![CDATA[Äußere Farbe ist notwendig für das Farbschema]]></translation>
       <translation phrase="Outer Color"><![CDATA[Äußere Farbe]]></translation>
       <translation phrase="On a Day"><![CDATA[An einem Tag]]></translation>
@@ -4899,7 +4899,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; post a new version of &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; document"><![CDATA[&lt;a href=&quot;:author_url&quot; class=&quot;:author_link_classes&quot;&gt;:author_name&lt;/a&gt; hat eine neuer Version des Dokuments &lt;a href=&quot;:parent_url&quot; class=&quot;quick_view_item&quot;&gt;&quot;:parent_name&quot;&lt;/a&gt; veröffentlicht]]></translation>
       <translation phrase="&lt;a href=&quot;:unsubscribe_url&quot; style=&quot;:link_style&quot;&gt;Stop receiving email notifications&lt;/a&gt; about this :object_type."><![CDATA[&lt;a href=&quot;:unsubscribe_url&quot;&gt;Beenden des Empfangs von E-Mail-Benachrichtigungen&lt;/a&gt; für :object_type.]]></translation>
       <translation phrase="Configure Notification settings"><![CDATA[Konfigurieren Sie die Benachrichtigungseinstellungen]]></translation>
-      <translation phrase="Notifications Settings"><![CDATA[Benachrichtigungseinstellungen]]></translation>
+      <translation phrase="Notifications Settings"><![CDATA[Mitteilungseinstellungen]]></translation>
       <translation phrase="Other Support Ticket(s)"><![CDATA[Andere Support Tickets]]></translation>
       <translation phrase="project is change from"><![CDATA[Das Projekt wurde geänder von]]></translation>
       <translation phrase="This is a friendly automatic reminder."><![CDATA[Dies ist eine freundliche automatische Erinnerung.]]></translation>
@@ -5777,7 +5777,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="There is no Task. Can not create new SubTask."><![CDATA[Es existiert keine Aufgabe. Daher können Sie auch keine Teilaufgabe anlegen.]]></translation>
       <translation phrase="Create Support Ticket"><![CDATA[Erstellen Sie ein Support Ticket]]></translation>
       <translation phrase="Client Email"><![CDATA[Kunden E-Mail Adresse]]></translation>
-      <translation phrase="Notify Client?"><![CDATA[Kunden benachrichtigen?]]></translation>
+      <translation phrase="Notify Client?"><![CDATA[Kunden unterrichten?]]></translation>
       <translation phrase="Created On: :created_on_date"><![CDATA[Erstellt am: :created_on_date]]></translation>
       <translation phrase="Closed On: :closed_on_date"><![CDATA[Geschlossen am: :closed_on_date]]></translation>
       <translation phrase="Department"><![CDATA[Abteilung]]></translation>
