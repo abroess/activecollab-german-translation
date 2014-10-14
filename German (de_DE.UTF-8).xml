@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[4.2.14]]></ac_version>
+    <ac_version><![CDATA[4.2.15]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -3313,7 +3313,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Mailbox not Checked"><![CDATA[Mailbox nicht geprüft]]></translation>
       <translation phrase="Mailbox :mailbox_name has not been checked and emails aren't imported from this mailbox"><![CDATA[Mailbox :mailbox_name wurde nicht geprüft und keine E-mails wurden von dieser Mailbox importiert]]></translation>
       <translation phrase="Notification"><![CDATA[Mitteilung]]></translation>
-      <translation phrase="New :type has been Created"><![CDATA[Neue(r) :type wurde angelegt]]></translation>
+      <translation phrase="New :type has been Created"><![CDATA[Neue :type wurde angelegt]]></translation>
       <translation phrase="New!"><![CDATA[Neu!]]></translation>
       <translation phrase="New Version of ':object_name' File has been Uploaded"><![CDATA[Neue Version der Datei ':object_name'  wurde hochgeladen]]></translation>
       <translation phrase="New Version of ':name' Document has been Posted"><![CDATA[Neue Version der Datei ':name'  wurde veröffentlicht]]></translation>
@@ -5830,5 +5830,11 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Widget Plus Messages"><![CDATA[Widget Plus Nachrichten]]></translation>
       <translation phrase="Widgets Plus"><![CDATA[Widgets Plus]]></translation>
       <translation phrase="You can also add a new home screen tab - and select Full Width or Two Column layout added by Widgets Plus."><![CDATA[Sie können auch einen neuen Startseiten Tab hinzufügen und außerdem auswählen ob die volle breite oder 2 Spalten als Layout angezeigt werden sollen.]]></translation>
+      <translation phrase="Hello"><![CDATA[Hallo]]></translation>
+      <translation phrase="showing latest 400 Time records"><![CDATA[Die letzte 400 Zeiteinträge anzeigen]]></translation>
+      <translation phrase="Send an acknowledgement email after creation of support ticket"><![CDATA[Sende eine Bestätigungsmail nach dem erstellen eines Support Tickets]]></translation>
+      <translation phrase="Thank you for your message. We have registered your request."><![CDATA[Danke für Ihre Nachricht. Wir haben Ihre Anfrage erhalten.]]></translation>
+      <translation phrase="When task label change"><![CDATA[Wenn das Aufgaben Etikett sich ändert]]></translation>
+      <translation phrase="We will get in touch with you soon."><![CDATA[Wir werden Sie zeitnah kontaktieren.]]></translation>
     </translations>
   </language>
