@@ -669,7 +669,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase completed"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase abgeschlossen]]></translation>
       <translation phrase=":name :type_lowercase in :target_name :target_type_lowercase completed"><![CDATA[:name :type_lowercase in :target_name :target_type_lowercase abgeschlossen]]></translation>
       <translation phrase="Weekend"><![CDATA[Wochenende]]></translation>
-      <translation phrase="Workweek"><![CDATA[Werkswoche]]></translation>
+      <translation phrase="Workweek"><![CDATA[Arbeitswoche]]></translation>
       <translation phrase="Workdays"><![CDATA[Werktage]]></translation>
       <translation phrase="Welcome"><![CDATA[Willkommen]]></translation>
       <translation phrase="with"><![CDATA[mit]]></translation>
@@ -4845,7 +4845,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="Number of Users"><![CDATA[Anzahl Benutzer]]></translation>
       <translation phrase="One User"><![CDATA[Ein Benutzer]]></translation>
       <translation phrase="Permissions for this position"><![CDATA[Berechtigungen für diese Position]]></translation>
-      <translation phrase="Permanently Delete Projects"><![CDATA[Permanentes löschen von Projekten]]></translation>
+      <translation phrase="Permanently Delete Projects"><![CDATA[Permanentes Löschen von Projekten]]></translation>
       <translation phrase="Project has been permanently deleted"><![CDATA[Projekt wurde permanent gelöscht]]></translation>
       <translation phrase="Projects Data Cleanup"><![CDATA[Projekt Daten aufräumen]]></translation>
       <translation phrase="Question"><![CDATA[Frage]]></translation>

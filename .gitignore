@@ -1,3 +1,4 @@
-# Ignore .htaccess & .DS_Store
+# Ignore .htaccess & .DS_Store & PHP-Storm Project
 .htaccess
 .DS_Store
+.idea
