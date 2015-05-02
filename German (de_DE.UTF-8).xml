@@ -5846,7 +5846,7 @@ Milestone 2"><![CDATA[Meilenstein 1 Aufgabe 1.1  Teilaufgabe 1.1.1  Teilaufgabe 
       <translation phrase="IM set to empty value"><![CDATA[IM auf leeren Wert geändert]]></translation>
       <translation phrase="IM set to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[IM auf  &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
       <translation phrase="IM changed from &lt;b&gt;:old_value&lt;/b&gt; to &lt;b&gt;:new_value&lt;/b&gt;"><![CDATA[IM von &lt;b&gt;:old_value&lt;/b&gt; auf &lt;b&gt;:new_value&lt;/b&gt; geändert]]></translation>
-      <translation phrase="Import or export MS Project XML file"><![CDATA[Import oder Export MS Projekt XML file]]></translation>
+      <translation phrase="Import or export MS Project XML file"><![CDATA[Import oder Export MS Projekt XML Datei]]></translation>
       <translation phrase="Import Microsoft Project"><![CDATA[Import Microsoft Projekt]]></translation>
       <translation phrase="Import/Export MS Projects"><![CDATA[Import/Export MS Projekte]]></translation>
       <translation phrase="Import MS Project Data"><![CDATA[Import MS Projekt Daten]]></translation>
